@@ -30,14 +30,15 @@ local Library = {
 
 	HudRegistry = {};
 
-	FontColor = Color3.fromRGB(115, 115, 155);
-    FontColor2 = Color3.fromRGB(198, 198, 198);
-    MainColor = Color3.fromRGB(15, 15, 15);
-    MainColor2 = Color3.fromRGB(23, 23, 23);
-    BackgroundColor = Color3.fromRGB(16, 16, 16);
-    AccentColor = Color3.fromRGB(50, 150, 255);
-    OutlineColor = Color3.fromRGB(11, 11, 11);
-    RiskColor = Color3.fromRGB(255, 50, 50),
+FontColor = Color3.fromRGB(230, 230, 230),  -- Light grey, almost white for easy readability
+FontColor2 = Color3.fromRGB(180, 180, 180), -- Lighter grey for secondary text
+MainColor = Color3.fromRGB(30, 30, 30),     -- Darker grey for the main area
+MainColor2 = Color3.fromRGB(40, 40, 40),    -- Slightly lighter grey for accents or borders
+BackgroundColor = Color3.fromRGB(20, 20, 20), -- Very dark grey for the background
+AccentColor = Color3.fromRGB(75, 130, 200),  -- A muted blue, more neutral and still stands out
+OutlineColor = Color3.fromRGB(50, 50, 50),   -- Medium grey for outlines to provide depth
+RiskColor = Color3.fromRGB(255, 75, 75),     -- Bright red for risk or warning elements
+
 
 	Black = Color3.new(0, 0, 0);
 	Font = Enum.Font.Code,
