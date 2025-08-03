@@ -1,1 +1,3377 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) __CoTGoWhSMWF = a; end)); return(function(f,...)local h;local d;local l;local t;local a;local s;local e=24915;local n=0;local z={};while n<701 do n=n+1;while n<0x17d and e%0x1206<0x903 do n=n+1 e=(e*763)%12881 local o=n+e if(e%0x1234)<0x91a then e=(e*0xf3)%0x20f4 while n<0x344 and e%0x33a0<0x19d0 do n=n+1 e=(e-196)%42582 local l=n+e if(e%0xeb0)<=0x758 then e=(e-0x81)%0x3a5e local e=81192 if not z[e]then z[e]=0x1 d=string;end elseif e%2~=0 then e=(e-0x171)%0x4775 local e=21734 if not z[e]then z[e]=0x1 end else e=(e*0xe5)%0x5712 n=n+1 local e=87510 if not z[e]then z[e]=0x1 a={};end end end elseif e%2~=0 then e=(e*0x15f)%0x2642 while n<0x2a9 and e%0x18a0<0xc50 do n=n+1 e=(e+128)%9499 local o=n+e if(e%0x10f4)>=0x87a then e=(e-0x3db)%0x1196 local e=14798 if not z[e]then z[e]=0x1 t="\4\8\116\111\110\117\109\98\101\114\95\101\101\90\89\116\74\121\0\6\115\116\114\105\110\103\4\99\104\97\114\74\85\72\116\107\88\75\79\0\6\115\116\114\105\110\103\3\115\117\98\121\95\84\69\86\110\121\66\0\6\115\116\114\105\110\103\4\98\121\116\101\110\83\68\86\106\72\104\87\0\5\116\97\98\108\101\6\99\111\110\99\97\116\77\105\87\80\104\104\81\118\0\5\116\97\98\108\101\6\105\110\115\101\114\116\89\117\84\106\76\102\85\101\5";end elseif e%2~=0 then e=(e*0x2ec)%0x1184 local e=54404 if not z[e]then z[e]=0x1 h=function(h)local e=0x01 local function z(n)e=e+n return h:sub(e-n,e-0x01)end while true do local n=z(0x01)if(n=="\5")then break end local e=d.byte(z(0x01))local e=z(e)if n=="\2"then e=a._eeZYtJy(e)elseif n=="\3"then e=e~="\0"elseif n=="\6"then l[e]=function(n,e)return f(8,nil,f,e,n)end elseif n=="\4"then e=l[e]elseif n=="\0"then e=l[e][z(d.byte(z(0x01)))];end local n=z(0x08)a[n]=e end end end else e=(e+0x30a)%0x2e75 n=n+1 local e=29590 if not z[e]then z[e]=0x1 end end end else e=(e+0x311)%0x7dbf n=n+1 while n<0x154 and e%0x1660<0xb30 do n=n+1 e=(e+813)%15073 local h=n+e if(e%0x2924)<0x1492 then e=(e*0x324)%0x6567 local e=65789 if not z[e]then z[e]=0x1 l=getfenv and getfenv();end elseif e%2~=0 then e=(e+0x138)%0x4f5c local e=59200 if not z[e]then z[e]=0x1 l=(not l)and _ENV or l;end else e=(e-0x2ca)%0xc186 n=n+1 local e=75769 if not z[e]then z[e]=0x1 s=tonumber;end end end end end e=(e-1001)%32472 end h(t);local n={};for e=0x0,0xff do local z=a.JUHtkXKO(e);n[e]=z;n[z]=e;end local function o(e)return n[e];end local d=(function(f,d)local t,z=0x01,0x10 local n={{},{},{}}local l=-0x01 local e=0x01 local h=f while true do n[0x03][a.y_TEVnyB(d,e,(function()e=t+e return e-0x01 end)())]=(function()l=l+0x01 return l end)()if l==(0x0f)then l=""z=0x000 break end end local l=#d while e<l+0x01 do n[0x02][z]=a.y_TEVnyB(d,e,(function()e=t+e return e-0x01 end)())z=z+0x01 if z%0x02==0x00 then z=0x00 a.YuTjLfUe(n[0x01],(o((((n[0x03][n[0x02][0x00]]or 0x00)*0x10)+(n[0x03][n[0x02][0x01]]or 0x00)+h)%0x100)));h=f+h;end end return a.MiWPhhQv(n[0x01])end);h(d(200,"lyp7U.{3%fuaQwc17w"));h(d(143,"F7k=Og>+QVSbw0M&+7MQw>=QS+d&QgM&&0wMgWbVk0VVpkg0M&>=bQObb+bSkw;Q>w0bg+wQ=&SQ&O+kM>+gw=g!g>wbS+7SQk&Q>&M77Mbl77QS&>>+&c&O>bOVbbkSVkuQ+kQ7gSb&O=S=7V>V&>gg0wg0Sb={bpSS7&&VgMMkO+ggk0V>BQQw&gO7b=k7Q&;M+777QOQk&b0==>b>kKQVoV>+MbOVbb=>SL&=+kMC>Qwg=Vbgk0=QSw>wMwgb00OVb0M&VQ7>g=0gg>0SOkSSbVkSHM>VMkgM0O7MSQ7+>g0Q>OwgMggg&M+&&l+bw0>Qb>O0bgwk=+7OQ(&g>+0>=MbO7MV71+>&wb=gw>kQQkbYk>x>>O0>g7bbw0S07+QSMwg&0QkSw==VVQMw>ww>OQ>S00b0k+VS&w>&MQg0w==OV=kVV0&ggw+SMwwQ=bS=7VVeMkg&0wgVbV=VQbMV7VQw>Sw0OgS&7MSe7k+7&Ogbb77+bg7&kgVS+O0Vg0wk0XSk7VQ0&M+k0OOSw==kS=7SQw0b&M"));local e=(-16171+(function()local l,e=0,1;(function(z,n,e)e(z(n,e,n and e),z(n,e,e),e(z,n,z))end)(function(n,h,z)if l>327 then return n end l=l+1 e=(e*624)%27982 if(e%470)<=235 then e=(e-141)%36036 return z(z(n and h,n and h,z and h),z(n,n,z and h),z(h,n,z and n))else return z end return n end,function(z,n,h)if l>280 then return h end l=l+1 e=(e-310)%18414 if(e%350)<=175 then e=(e*202)%44252 return z(n(n,z,n),n(h and n,z,n)and z(n,n and n,z),h(h,z and z,z))else return n end return z end,function(z,n,h)if l>126 then return n end l=l+1 e=(e*861)%9877 if(e%1796)>898 then return z(n(z,n,n),z(n,n and h,z)and n(h and z,z,z),n(h,n,z))else return h end return n end)return e;end)())local o=a.oddRwzaW or a.LtygJYBS;local le=(getfenv)or(function()return _ENV end);local h=3;local _=1;local t=4;local l=2;local function ze(u,...)local c=d(e,"x&nJ/-(hzlT*X!L?zL!>JzTj^zhl!z/FTz-JLR/&*T&&h*?//!Xn*zJ8zz?f-z&-l*?-(TTlJ(TQb!h/**J-TT&(h&!JJ!/d*J&5hzLrT*&?z(LL/!*JnXzl?h-LX*X&nllR8&(RXzJa5X(&!TJhl!&/h&!LJ?/%T*&:hzLDT?n-z(zDLX-w*znw?z-&XTJ/nzT&?z(iXzhJr4(&!TJ&l*&/(!LnnTT-&-h?LL/l*(&h&zz/Lz-6*zhhLl-lXXXvJnlr?z(:M?l-{X-JX!/nTLbl(*!-!z/lTz&5hz/n*!&Xz/L--XT?nXlNzz?/-zXAnz?h-lX!n!J)ll37(z!Wh*T.&zho!z/Ey*h(LT/&*-&-hh?/-hT?nhz(LL(J*!J/nzlh?z(9XzhJIh(L!(J-l*&/6zh!!z/VTz(?!hnJ*h./-?L?J?*z,*(!!?J(-zX*nzl+?z!Jn!T/)T(-XlJ/Th%Lh/Ll!z/hTz&whz--*X&lz/Ll-XXl*zJ:zz?N-znzzl?L-XXXn!z??*(zXl/nll9JhX!-/T/UX&&bhzLbl-&?zhLLJ**-&*h?!*(/XTnll(?h(*TzJ&l/?X(-!(&&TX&/hTh1!?/<Tz&iXz/XTlnlh!?n-*-WXGntzz?_l?n-lX!!(h!-J*l-lzvh(z!aJz)*(!LlJTTl&(h/hzL(/z*P&z?//lXn&?z-?X?2(&XVnzlY-L!-J(lJVX(l!hJLT*Ts&nhZ!z/,?Tz-L(JJT!nnzLLl/**-**n8zX?A-zX;ha?--lX/XzJ?lzEi(zJhl!&/hT!&/?T!e!z/!l-/Tl&nz/L-Lzhh*zn<zz//X5nll**o-LXlJ/l-*zhhXl/J-z&8hT!?/XT- *z/!!//(znhz&?/-IhkF-z??h-LT*n-z**Z/LlJXzJhlzm1(zn?lh0lh(!/J!*zTz&?hzL1/zn/h!LX/!XFnhln?X/?*TJ-l/?X-!!/XzJTlz._(z&lT(&Zh!L/&TT-g?h&L(L7/X*c&zz_n!*Ln!z!zz8n-zXjnz?h-!!/nhlJW/(?!*J-T*&/(hL/Jl*nG?h-LXL4/?*r&zzvJJ*-J&(J?h-/*!X_J(lQ?z(Dm*lz?lhnXlJJTX0-hT*&JXT/k!h/hzL*/z*Z&zXX-h*J&lzX!z-X*lJlz!8n?z(zXzJYlzkz(z!cJzTp&nho!z/vL*hzL&/XTX?&hXL//!*/*zn(zz?1-znllz?&(&!nJ*J4T/Zd(z!Ah*gzh&!XJXlnr!h!Lh-(T!&/&zz*Lz-#*zzJ?h-LX(n-z*k/(&X?J(TJlz4h(z!aJzLJhh!L/(T-_*z/hz?z/z*v&zLJ-%*ln/z/Lh(n*!n!lh_((&XLn?z??*(zXl/nll+JhX!-/T/U*n&.hzLdzX&lz*LJ-h*Ln(z-L*(/-z!-nzl#?zXJJ_l&uT(&X*//l!&n(h!J/+Tl&/h/!h/&TX&/h!L/Ll-n*znKzz?*-zX0nzlN.((%XzJocX(?!hJXlh.&(*L//&*()lz/!!///z**&zz8Lz*JnhzL?(--**J/l&??((!JXzJllzd6(z&&l*&/h&L(Jl*/u!h/hzL//z*^&z!/-h*?n/niz*?c-zX}h&yJJl({XLJqlzK4!&/qll{lhTLJ!z/hTz&}hzn/*&nJhlLn-/*-*znLzz?s-znhz!V/-*X?J(lL?!(J!XJlTh^Lh*hW?./aTz&O*?/-*X+pzTL?-z*-nTl/7&JJXdn&l(?h-!X/&*ll??(LXlJXJzT/.zha!zzh&ThlLzLc/?*F&zz#n**?n(zLL!-JXXX&nll9?z(OX*JNlz3V(z!?JzTU0zL/J!TXo!zILh-n*XE?hT?--/*X&!l/zz?l-zXZnz?((!XLn*T/;&(?!(/JJzTl5zht!zTn&!hXL//-*XU?zX?_Lz-_*zn4zz?T-zXmnzlO?z(FXzJElz#M(z!%-z*Tjzh,!z/ZTz&JhzL(T#*W&zzE?&-=*lnizz?i-X?(nzlQ?z(lXzJ&lzYb(z!)JzTw=lhV!z/YXznThzL</z*Q&zznLzhV!nnPzz?V-zX5nllK?z(RXzJ&lz5n(z!gJzT,(nh5!z/pTT&AhlLS/z!L&zz;Lz-&*znizzcX-zXKnz*gaT(5XlJ0lz=B(!!)/T?!_zhJ!z//Tz&0hzLmz(*2&lz>L*-G*Tn_zL/z-zX&nzT*?z(&XzJ8lzO/lL!mJzT3nJhu!l/G*T-XhzL&/z*(&zz{Lz(n7nnczT?a(wX#nzle&zhlXzJJlz;+(z!lJz*n&?h}!!/m*n&PhzL_/zXh&zzJLz--*znozz?a(nX8nTl=?z(QXzJ}lz&((z!&JzT={zhJ!z//T?&ghzLP-h*4&lz3vz(n*zn(zz?--zXhnzlf-n(yXLJqlT7t(l!.JL1!+zh&!z/!Tz&&hzLn/z*//LzCLz-yX-n;zl?V-zX=nzl&?z(,XzJOlzn_zn!:JlTq lhW!T/9XznThzLn/z*d&zzJLzhWXTn zT?V-TX JJle?LlnXzJ/lzcB(z!&JzTJPzhI&-/fTz&ghlLM/z*O&z*!Lz-,*zn)zz?C-zXSlhlY?z(OXzJ;lzKw(zqLJzTn9zh/!z/nTznG*>Lk/l*2&lzdLT-b*z/Lzz?4-zX&nzlH?z(hXzJplz _(?!wJzTch!L//&TX&&z/?&Ly/X*M&zzF-X*?nhzXzz?*-zX4nz?J(hXLJ(l-?*h/!&J?T(&J8zhT!z/ZTz-/L&-JT*&?z(LL/!*JnXnSz*?a-zX5z?v-(((JXzJLlzH1(z//Thp?h/X?JlTJ&XhlLL/&*X&-hXzRLz-E*zn>lz?q-zX^nzT&?z(jXzJ_lzKa(z?p-&T6Czhy!z/8Tl&olzLl/z*N&zzELz--*z-Plr?A-zXknTlm?L(MXzJnlz<<(z!QJzTRYzl_!?/UTz&YhzLV/**0JzllLz-4*zn<zz?h-zX(nllH?z(Z!nJ8llyQ(l!jJX!()zh=!z/TTz&&hzL/hL*E&zzI?h-a*ln>zz?O-zXanzlD?z(GXz-=*ncs(z!;JzT4N*h ?z-TTz&uhzLg/z*h&zT)?T-d*zn%zz?_-XX_nzLT?z(cXzJnlzC&(z!q((TtZzh4!l/dTz&flLLN/z*dnTz-Lz-&*znnzz?E-zXHnXlp?T(cXTJOlzO.hT!lJzTJ8zhz!z/9Tznnz*L</X*A&LzjLz-D*zn*zz?n-zX/nzl&?z(6X?J_ll_C(T!{J*T#DXT(!z/:TznnhzL&/z*0&zz;LL-B*zn9zz?Zhz!Tnzl(?z((XzJ/lzMdln!VJLTPiLhY!!/STL&&hzL(/z*!&zz&Lz-&*zn/*L?1-zXYJ-lE?l(QXX((lzHC(zLnJzT&^zh{!z/uTL&ZhzL./z*6JzlTLz-(*zn(zz?/-zX5-nl3?L(4XLJdl!)azzLnJzT(Wzh(!z/hTz&Q!nL6/L*a&TzWLl-F*Lz!zz?&-zXhnzl&?z(nXzJ/XLPi(z!}J?T+Klhv!z/PTz&&hzLA/z*w&zTSFn-K*lnazl?v-XX6/zTT?z(nXzJrlz8&(z?_/TTNfTh2!T/FT!&3hL&n/z*/&zzFLz-&*znnzz?Cl-X0nzl#?z(rXzJ+lzJ!(z!3JzT&OzhD!z/2XX&_hTL#/X*f&Tz=?z(&*zn&zz?z-zXnnzl j?()XlJ7lzp.(z!b-zT-mzh&!z/&Tz&/hzE;-!*v&TzkLz-p**ngTz?L-zXnnzln?z(-XzJ(XTfD(X!9JlTK,lht!l/uTz/!hzL6/z*K&zzULz-a?(n{zT?7-XX7nTl;OzlzXzJ&lzU((z!nJzTYJ(hM!z/dTl&9hzLQ-h*<&zzyLz-/*zn_zz-h*ln!z!lZF((rXzJy!L(l!(J/hL1lhTLJ/XzJ&EhlL////z*h&zz#LzTYn/z&L*--T&n/nzll?z(NXzhJt (&!TJ&l*&/(!Ln!z/lTz&#hz/n*!&Xz/L--XT?nXlpzz?(-zX,nz9/-l!nn?l-HX#n(z!NJzXjnzJ(*Xz&Tz&*hzLN/z&JzvL-/***&*z&?/-X*!Jnnzlz?z()XzzgWhhJ!&//T&<?h(hQ!*/>Tz&IL(/-*?*<&*zrLz-#B<zl?X?)-LXonzlK/XX&JTlh?!h/(z!(JzT3{z*J&L*nOlh!!!L2-&*E&zzs-X*&nTzhL!(/X&nLz?la?X(#XzJ;Sz(&!T//JTTiPzhF!zhJTz&_hz?nl/*u&TzB?G-R*znszz/X-zXnnzl&?z(nXzJ(?_jB(T!kJ!TKKlhs!z/KTX/(hzLI/z*-&zz&Lz-/LLngzz?pz-X;nllW?z(ZXzJnlzPO(z!1JzT(((hr!z/o!-&ihlL2/T*Q&X*(Lz-m*z/!zz?&-zL(J*lE?l(o!TJtllf>hJ!wJX!(,zhe!z-nTz&&hz7(-**m&lzW?--v*lnol/?g-X?(nzlK?z(!XzJ&lz:/lL!WJzT7J-h+!l/=*T-XhzLn/z*&&zzPLzhV!nnZzT?+-TX{n*l4&LhJXzJnlz&n(z!&JzThtzh/yL/UTz&dzTLu/l*g&X*(Lz-c*z/!zz?&-zX}nzli?T(2XlJalzuQzzb&JzTnHzhn!z/-Tz&(lnL9/T*wn?zOLl-0*lnozXn(-zXknzTh?z(&XzJ/XLuQ(z!y(-T+9lhi!z/FTz&nhzLn/z*}&zT^Hn-b*TnQzT?_((X:/zX&?z(nXzJnlzN((z!(/?TS_Thr?-/9Tl&1hlLc/XL(&zz5Lz(!*zn&zz?/zLXOnzlHn-(uXlJA*z&T(z!JJzTnazh/!z/(ib&Oh*L9h-*+&lzFLz-_*X-(zz?:-zL!nzl&?zz^LnJjl*P6(T!5JXT^nz*0!z/JTz&JhzLn/z*WnlzQL!-:*ln+zz?Ghz!/nzl-?z(-XzJ?lzQ_(!!RJ*Tcd!h}!T/iTL&-hzLJ/z!z&zz&Lz-&*zn/*L?#-zXw->lF?l(PXX((lzE{(z?!JzT&azznn//mTX&uz-LQ/z*FJzlTLz-/*zn/zz?T-zL=/nl6?!( X*J:T&dt(z?*JzT/7zh-!z/3Tz&ul*Lc/X*G&zz7Lz-D*znmzz?n-zXJnzl4?z(<?zJcl*.q(z!+JzT<szz!!z//Tz&&hzL{/z*+nnz}LT-C*Xn zz?F-z!(nzln?z(tXzJvlzPuhJ! JzTf,lhY!z/QTX&#hzLq/z*h&zzrLz**&!llLT-lX(n/nzll?z(iXzT/?lhnX?J-TX%lh(!h!z-nTz&1hz/hT!n/hhLJ-/*?n*z-?*(/*hJ/zlRn-?X-JXJPl?+;(z!8zJb-z&*J/hT/,!&nhzL;/z*Yn/z5Lz-A*Ln&zz?&-zX*nzl&?z(&XzJ/XLVW(z!t/JTr6lhA?z-TTz&nhzLt/z*/&zzRLz-_**n)zz?=-zXs/zTT?z(JXzJJlz7&(z!(l(TjEThOLJ/WTl&Rh*L+/XL(&zz:Lz-**zn&zz?I-zX7nTld?l(aXzJu*z&T(z!nJzTn4zhn!z(VXn&}hTLr/T*i&*zbLzh4*znnzz?&-zX&nzlqn((gXzJFllRj(z!i/hT%Rzh;!z//Tz&_hz/!Tln/z:zrLL-A*znr?X-&XTnhz!C/?z(zXzJZlz-D!h/JT&&/h&!?/(/{TL&RhzLRlB&-hlLX-X*z*znlzz?8-z8JlG?&(TX&n*T/?!hn(zL8JzT=:z*z/!T!1lhLLh/lTX,nzhL?-XTf&lln?X?n-zXknzlH?z(cXzJ_lztz(z!+JzLzh!!!JlTL&hhl!XLC/X* &zzi-tX-&?z-zz?(-zXCnz?l(zX&J&Tnk*;^h(!9JzTq/L!l/(T/LLhlLT-J*X?JzVLl-/*/*znlzz?3-za!zl?h((XlJXT-?X(-(z!JJzT2uz*z/&*/Tz&ThzLg/z?hh!?/Jz*X&lllL!(nX*X_J&l.?z(dJXl&2T(hX!//T&rL(?h1!z/sTz&WTzLk/z*^nTzlLz-&*zn&zz?I-zLDn*lW?l(sXlJ+T&#;(zLnJzTn#zh !z/DTzJDl/Lp/T*+&Tzb?--q!zn*zz?n-zXnnzlJ?zhn!*Jdl*W:hn!8JzT>Dzz&!z//Tz&&hzL</z!7nTz:LX-=*XnWl(?b-z!Lnzl/?z(-XzJelzHAl*!DJ*T^>zh>!!/_TX/(hzLf/z!T&zz&Lz-j*zn_ld?)-TX5nzlE?Lh?XzJhlznT(z!&JzTz3zh/HL/CTz&ETnL9/l*<JzlTLz-z*znhzz?--zX(nll#_P(c!TJdllcq(l!GJX!(IzhY!z-nTz&&hzL/hL*I&zzf&n-W*ln+TzjT-zXznzlh?z(-Xz-g*0_sh#!A/)T2&JhCLT/&Tz&ThzL(/z*G&zzj)q-{XUnoln?s-TXg/zTn?z(lXzJhlzY-(z?k/nTN&&h7L&/u*J&bzTLz/z**&zzzLz-U*zn_zL?q(&X%JJl%?T(uXLJ&lz1z(zL!JzT&dzh&!z//!L&phzLe(-*B&lzKLXz(*zn=zz&T-zX&nzl(?l(7!&Ji*zo5(l!%JlT}^XT(!z/3TzJPhzL&/z*//Lz Lz-NLnn0zl?uhz!TnzlT?z(lXzJ/lzeL**!0J?T:JnhY!l/K*n&yhX&(/z*^&zTTLz-&*z/bTn?_(nX9JYl0?*(uXzhhlzQT(z!TJzTnHzl,?n/O*n&;znLw-/*,&Lz!Lz-T*z/Tzz?&-zX&nzl/nL(bXzJiXn5u(l!yJz*-<zh&!z/TTz&uhzLQ-!*a&zz:L?-_*znbzL-!-zXJnzl*?z(&XzJnlz+/lL!PJzT3&Jh0!l/cTz&^hzLJ/z*J&zzGLzhY!nn%z*?b-*XoJhl8MzlzXzJJlz4n(z!KJzTvJ(hr!z/7Tl&1hzL0-(*P&zz3Lz-(*zn%zzJJlLJnzl?!-!(<!zJ.lzBk*S/-T-;&h(!?/&T/?Th?Lh-/lz&&zT?/Lz-!*zngzz/n*!nLzX?-(T*JJXl-3zh#X!J/JzTlszh6!z*/ylzn!?/-*X&lz(LhLz-l*znAzzJJXcn&lT?&-*!/n!TnlzK/(z!OJz?h(l!l/X/_*&&ahzLSTLn-z(LJ-X*lnhzL?*?q(&X0nzl /TXln?lz:X/zXlJLlXTR&whd!z/)LTh&!*/**z&&h*L*Lz-(*znizz(/*lJnz??-(X(p!zJ,lzM_X*J(TTN&h-!-Jh*/&h(?Lh/(TLnJh!?/Lz-/*znMzzJhXTnllzl9?L(4XzJZLz(&!TJ-T(&/RzhL!z/,Tz-(L&/LTX?(z&?n-*X/?*zz?&-X*XX&nzlU?z(Ea(JalzMA(z!_JzT&>zh1!z/GTzJOlnLi/l*D&lz<LX->!zJTzz?&-zX&nzlT?z((n%J.ll;uhz!9JlTkwzh5!Xh(Tz&_hz?./z*&&zTGun-E*Tn<zl?o-!XYnLl&?z(nXzJllz{&(z!&JzT/JLhp!z/b*&&8hlLZ/XL(&zzDLz(F*zn&zz&thnX)nTlg?l(mX!J%*z&n(z!nJzTnDzhL!z-nN-&ChXL8/T*<&zz=LzzL*znnzz?/-zXnnzl(-,(rXTJ6TzQd(l!AJzTsvXT(!z/GTznmhzL&/z*//LzqLz-bXlnszl? -zLLnzlM?z(&XzJ7lzA:(z!tJTT%ulhw!z/jXznThzLn/z*n&zz-Lz-(&^nvzT?)hnX_nlld?z(mXX((lz2u(zLTJzT&Ezhj!z/DTT&:hlL4/z*bJzlTLz-n*znnzz?--zLmJTl<?T(_XTJMT(o2hTn!JzT/rzhn!z/4Tz&v*(L,/T*Q&Xz4LT-I!zJTzz?J-zX&nzl-?zz4LnJNl*>8(*!HJTT+#LXz!z/nTz/!hzL&/z*g&zz/&L-2*znIX-?%-lX0nLl&?z(JXz-&lz:&(z!&JzT/JLhP!z/rXl&AhlL8/XL(&zzNLzz!*zn&zz&2hnXZnXlZ?z(y!/J2lzQ((z!-JzT&3zh:!z(9*8&Vh!L0/!*}n&zv?z-/*znkzz?!-zX-nzl#:/(YX!JKlze2(z!w-z*-ezh-!z/-Tz&hhz7v-&*a&!z:L!-MXJnkzzW--zX(nzl&?z(0Xz-v*nkt(L!bJLTa}!h=?z/XTz&(hzL(/z*z&zTC?--W*Ln5zL?D-lXA/zT&?z(hXzJJlz_&(z!G/JT2Z!hc!?/VTT&5zzLT/z*H&zzXLz--*znZT&?6-!X.nllC?z(}LzJ(lzR-(z!-JzT-Kzz)&S/ETz&jz-LA/!*A&zX?Lz--*znnzz?8-zLjJLlB?!(SX!J;l*>2zz!&JzT-8zh-!z/(Tz&%z(L7/!*7&TzvLl-Y*zJJzz?--zX&nzlb?zzRX?Jsl!VP(!!2/&Ty&zz/!z/}Tz&!hzL-/zXg-jzdLz-UX/nPzX?#-zXpnzl-?z(&XzJ1lzn3zn!;J!T^:!h !!/S*z/zhzLj/z*!&zz-Lz-gL(n1zz?b-lX%nzl2?!(EXzJ{lz&-(z!;Jz=Jhk!&/TT&d*z/!!-nTh&Jz5Ll-/*/&hz&LX-/*!n/nzlT?z(6Xzh/W&hJX*J?T(,L(!!J/X/<Xp&mhzL+T*&zz&LX/XT?nTz-?--?XLnll(?h-hXJJ+l& T(&X*//l!&nszh*!z/9TzhJLh/L*(&-h*?/-&*?n(lJzz?(-zXbnz?l(zX&J&Tn1*M7(z!_JzT8&Xhg!z/m*T&-hzLY/z*-&zz_Lz-r!nn3zl?C-TXqnzlyeT(nXzJnlzc&(z!QJz*n&*hf!*/UT*&uhzLt/z**&zz&Lz-J*zn&zz?%-?XrnzlO?T(6XTJ4lXJ((z!YJz*&Uzh&!z/tTz&}h!Lj/z*,&zz{ z(T*zn-zz?--zX/nzl^nn(pX!Jsl!7}(X!YJL?z_zh-!z-&Tz&&hzL=/z*//LzjLz-#Xlnbzl?i-zX^nzl-?z(3XzJolznvzn!fJ!TA=!h>!X/tTzJThzL-/z*-&zz/LzhtXTnPz!?P-!XAnTl4?z*TXzJ-lz)n(z!&JzT(h-h>!z/jT?&>hlL{/T*6&X*(Lz-%*znhzz?&-zXq-(lQ?z(>XlJ2lzfE(?!1JzTaazhh!z/YTzhlL(-(T!nnz*L-LT-k*zn9zz?_-z*pLhln?z(QXzJolz+U(z!SJzTJ7zh;!zTL+!zhhzL(/z*P&zXJnLXn&lz!L!?n-zXBnzl%?z(Q*z(?lz+!(z!ZJz?/hh*?JTTT,!hJLXJJ*z&&h*L-LT-I*znvzz1h-zXgnzTnmn(DXTJHl!ss(z!0-zTJrzhn!z/nTz&/hz?n-T*)&*zIL*-=*znVlTol-zX/nzln?z(bXz/nT*)^(!!sJ*TDYzhcLT-XTz&(hzL(/z*u&zlnLX-;*?n=z*?d-zX{JTL!?z(zXzJJlzeu(zLnhnT#&&hZ!*/fTz&bzTL-/z*T&zzJLz-=*zJnl(?6(JXpnLl)?z(v!T/hlzSX(z!JJzT}>zzn!?/b*-&YhTLW/z*knTlTLz-L*znJzz?m-zX:Jll}?T(Q!(JalTD0(z!nJzTnjzhj!z/nTzJ1!LL0/**+&TzdL?-H*znzzz?--zX&nzlp?z(V!eJ9l*7Y(!!EJTT7nzzl!z/JTz&JhzL&/z* nzzGL*- *XnGzz?v-z!9nzlJ?z(YXzJBlz5{h^!ZJzTvclh1!z/NTT&_hzLo/z*l&zzZLz*(n!zLL*(/X&n?l(2J?zh7XzJ%lz(zXlJLlX6X(!X?J*TzRlzn!l/J*X&-zTz&Lz-W*zn)zL?a-zXqnz!n?z(&XzJNlzkv(z?,/LT)glh:!l/iTl&WlzL(/z*&&zz&Lz-n*zn^l&?u-TX{nzl+?z(KXz/,lz9&(z!nJzT&1zhA?&/rTz&{hlLZ/z*Qh?zkLz-_*zz=zz?m-zX&nzl ?zhnLJJrlzURhX!9JzTK&ThX!z/_TznshzL /z!(JJz+Lz-E*Ln)zl?}h(X5nXX(?z(mXzJ(lz^&(z!/(LTo4zh2!?/%Tl&uhzIL/z*}&zz&Lz-,*zJn!/?E-zX%J/lF?z(RLz-!lzWk(z! JzTTOzznL&/7TT&az!Lf/z*^&zz&Lz-B*znnzz?n-z!nJTl:?l(S!/JSlz7mzz!*JzT&Hzh&!z/TTznnz!Lq/**AJnzrLz-+*zJJzz?&-zXJnzln?zhn&/J7lTQ>h/!eJzTunzX&!z/nTz&nhzLT/zXnn-z)LX-2*Tntzz?W-zX(nzln?z(/XzJnlzngh!!KJ*T1gzh,?L/pXz&?hzL//z*J&zl(Lz-#!-nVzX?%-TX<nTlB?z(TXzJ-lzRM(z!/JzTS&(h3!L/jTz&vhzLa-z&T&zz-Lz(l*zn(zz?C-*X%nLl.?z(VXlJkXzpz(z!(Jz*z1zz*!z-UX2&Ph!L7/!*_&LzNLz-z*zn(zz?4-zXwnzT}Qz(qX!J.l*fC(L!=Jz*TIzh(!z/#Tz&&hzLd-(*N&?zELz-j*znslz?/-zX(nzl(?z(hXz/%l!}{(!!)/TTmdLhc!z/(Tz&(hzLI/z*J&z*G?&-p*LnNlJ?j-XXmJTl/?z(hXz-nlzuf(z?H/XT3e?hS!?/gXX&#lzLn/z*h&zzhLz-!*zJrX#?s-LX5J?lC??(_?z-zlzo((z!hJz*X3zlsL*/OT?&%h!LV/!*q&L*nLz-z*znJzz?&-zX/nzlu(h(VXzJylX.j(z!BJz^?gzh_!z/}Tz&rhzL1*h*i&zzHL*-t*znkzz-?-zXjnzl-?z(PXz/)!h;E(?!G-*T:&YhM?z/?Tz&hhzLn/z!&&zTN?T-R*?n8z??E(hXinLXn?z(lXzJnlzN&(z!nJzT.hhhH!z/kTL&0hzLD/z&?&zzsLz--*zn7zz?{T?X<n?lOP&(dXlJ1TT&-(z!hJz*!wzh3!z-n*Q&oz4LM-/*4&zz;Lz(z*znhzz?n-zXnnzTn?*(;!NJZTlFN(z!BJzT&rzhl!z/hTz&KhzLu-/*Snnz_Lz-G*zn9zz&n-zXznzlT?z(&Xz-o*nm:hK!PJ?T<nhhr!LhnTz&lhzL&/z*&&zz/Lz-Cnhn>zz?m-XX>nzlo?zX?XzJ.lzf((z!CJzTkhhhy!z/4T!&BhzLe/z&?&zzMLz-z*zn,zz}GlhXcn?l#&h(S!&J<*zjJ(z!lJzT-Czzl!z/n>&&BznLN/L*#&zz>?zz?*znlzz?L-zXTnz*FEl(Z!&JRl!={z&!kJL!n5zhT!z//Tz&&hzLJ/z*jzhz_Lz-d*!n+zz?a-zn?nzlR?z(JXzJplz0K!h!8JzTbalhg!z/K*z/?hzLl/z!d&zzTLzhr*!nZl&?o-!Xo/&lc?LlnXzJTlzyI(z!&JzTnrzhU/h/3Tz&mh!L4/z*%&zL?Lz-O*zn(zz?P-z!#(jlQ}&(O!*J_Tn26(LpnJzTlbzhh!z/&Tz&&hzL1*h*Z&zzgL!-G*zngTzn&-zXTnzlJ?z(&XzJ(TYK3hn!9lnTR)lhK!l/GTX/(hzL>/z}T&zz&Lzh^!nnPln?=-*XM/!l.&z(?XzJTlzbT(z!lJzTE&(hWLn/0TT&yhTL8/zX-&zz*Lz-l*zn<zz?QTJX1J/lRwn(KXzJ;lz&z(z!*JzTn=zh&!z(s*-&IzJLt/**HJ!ztOz-J*zn*zz?*-zX?nzl}?X(1!-JAT&4M(z!gJzTXVzh*!z/!Tz&&hzO0/L*^nJzpL*-tXdndTz0n-zX*nzl*?z(?XzJ(XTIyh-!jJ!TarlhK!l/8Tzh?hzL2/z*-&zzDLz-fn&nulJ?H(-X_nllI?zhTXzJglzP&(z!:Jz");local n=0;a.rjERUsPl(function()a.yRkiFHcS()n=n+1 end)local function e(z,e)if e then return n end;n=z+n;end local z,n,r=f(0,f,e,c,a.nSDVjHhW);local function d()local n,z=a.nSDVjHhW(c,e(1,3),e(5,6)+2);e(2);return(z*256)+n;end;local b=true;local b=0 local function g()local l=n();local e=n();local h=1;local l=(z(e,1,20)*(2^32))+l;local n=z(e,21,31);local e=((-1)^z(e,32));if(n==0)then if(l==b)then return e*0;else n=1;h=0;end;elseif(n==2047)then return(l==0)and(e*(1/0))or(e*(0/0));end;return a.KLIFTFuw(e,n-1023)*(h+(l/(2^52)));end;local k=n;local function p(n)local z;if(not n)then n=k();if(n==0)then return'';end;end;z=a.y_TEVnyB(c,e(1,3),e(5,6)+n-1);e(n)local e=""for n=(1+b),#z do e=e..a.y_TEVnyB(z,n,n)end return e;end;local b=#a.inePIiZC(s('\49.\48'))~=1 local e=n;local function he(...)return{...},a.ucukPErk('#',...)end local function ze()local c={};local e={};local f={};local s={c,f,nil,e};local e=n()local o={}for l=1,e do local z=r();local n;if(z==1)then n=(r()~=#{});elseif(z==2)then local e=g();if b and a.GcQgwThw(a.inePIiZC(e),'.(\48+)$')then e=a.chpnntuS(e);end n=e;elseif(z==0)then n=p();end;o[l]=n;end;s[3]=r();for e=1,n()do f[e-(#{1})]=ze();end;for a=1,n()do local e=r();if(z(e,1,1)==0)then local f=z(e,2,3);local r=z(e,4,6);local e={d(),d(),nil,nil};if(f==0)then e[h]=d();e[t]=d();elseif(f==#{1})then e[h]=n();elseif(f==u[2])then e[h]=n()-(2^16)elseif(f==u[3])then e[h]=n()-(2^16)e[t]=d();end;if(z(r,1,1)==1)then e[l]=o[e[l]]end if(z(r,2,2)==1)then e[h]=o[e[h]]end if(z(r,3,3)==1)then e[t]=o[e[t]]end c[a]=e;end end;return s;end;local function ne(z,e,n)local l=e;local l=n;return s(a.GcQgwThw(a.GcQgwThw(({a.rjERUsPl(z)})[2],e),n))end local function g(ee,s,c)local function ze(...)local d,p,j,ne,u,n,r,m,b,y,k,z;local e=0;while-1<e do if e<3 then if 0<e then if e~=2 then j=f(6,7,3,64,ee);u=he ne=0;else n=-41;r=-1;end else d=f(6,94,1,74,ee);p=f(6,91,2,92,ee);end else if 4<e then if 6==e then e=-2;else z=f(7);end else if-1<=e then repeat if e~=3 then y=a.ucukPErk('#',...)-1;k={};break;end;m={};b={...};until true;else m={};b={...};end end end e=e+1;end;for e=0,y do if(e>=j)then m[e-j]=b[e+1];else z[e]=b[e+1];end;end;local e=y-j+1 local e;local f;local function b(...)while true do end end while true do if n<-40 then n=n+42 end e=d[n];f=e[_];if f>=56 then if 84>f then if f<=69 then if 63>f then if f>=59 then if f<=60 then if 55<f then for n=11,64 do if 59~=f then z[e[l]]=z[e[h]]-z[e[t]];break;end;local e=e[l]local l,n=u(z[e](o(z,e+1,r)))r=n+e-1 local n=0;for e=e,r do n=n+1;z[e]=l[n];end;break;end;else z[e[l]]=z[e[h]]-z[e[t]];end else if f>=58 then for n=45,53 do if 61~=f then local n=e[l]z[n]=z[n](o(z,n+1,e[h]))break;end;z[e[l]]=s[e[h]];break;end;else z[e[l]]=s[e[h]];end end else if 57>f then z[e[l]][e[h]]=z[e[t]];else if 57==f then local l=e[l]local h={z[l](o(z,l+1,r))};local n=0;for e=l,e[t]do n=n+1;z[e]=h[n];end else local f;for t=0,6 do if t<3 then if 0<t then if t~=1 then z(e[l],e[h]);n=n+1;e=d[n];else z(e[l],e[h]);n=n+1;e=d[n];end else z(e[l],e[h]);n=n+1;e=d[n];end else if 4>=t then if-1~=t then for f=14,53 do if t>3 then z(e[l],e[h]);n=n+1;e=d[n];break;end;z(e[l],e[h]);n=n+1;e=d[n];break;end;else z(e[l],e[h]);n=n+1;e=d[n];end else if 5<t then f=e[l]z[f]=z[f](o(z,f+1,e[h]))else z(e[l],e[h]);n=n+1;e=d[n];end end end end end end end else if 65>=f then if 64<=f then if f>=63 then repeat if 64~=f then if(z[e[l]]~=e[t])then n=n+1;else n=e[h];end;break;end;local f,a;for r=0,4 do if r<=1 then if r>-1 then repeat if 1>r then f=e[l];a=z[e[h]];z[f+1]=a;z[f]=a[e[t]];n=n+1;e=d[n];break;end;z[e[l]]=s[e[h]];n=n+1;e=d[n];until true;else z[e[l]]=s[e[h]];n=n+1;e=d[n];end else if 2<r then if r<4 then f=e[l]z[f]=z[f](o(z,f+1,e[h]))n=n+1;e=d[n];else if not z[e[l]]then n=n+1;else n=e[h];end;end else z[e[l]]=z[e[h]][e[t]];n=n+1;e=d[n];end end end until true;else if(z[e[l]]~=e[t])then n=n+1;else n=e[h];end;end else for f=0,1 do if f~=0 then z[e[l]]=z[e[h]][e[t]];else z[e[l]][e[h]]=z[e[t]];n=n+1;e=d[n];end end end else if f<68 then if 66==f then local f;z[e[l]]=s[e[h]];n=n+1;e=d[n];z[e[l]]=z[e[h]][e[t]];n=n+1;e=d[n];z[e[l]]=z[e[h]][e[t]];n=n+1;e=d[n];z[e[l]]=z[e[h]];n=n+1;e=d[n];f=e[l]z[f](z[f+1])n=n+1;e=d[n];do return end;else local d=e[l];local t=e[t];local l=d+2 local d={z[d](z[d+1],z[l])};for e=1,t do z[l+e]=d[e];end;local d=d[1]if d then z[l]=d n=e[h];else n=n+1;end;end else if f>65 then for n=10,61 do if 69~=f then c[e[h]]=z[e[l]];break;end;local e=e[l]local l,n=u(z[e](z[e+1]))r=n+e-1 local n=0;for e=e,r do n=n+1;z[e]=l[n];end;break;end;else c[e[h]]=z[e[l]];end end end end else if 77>f then if 73>f then if 70>=f then local e=e[l];do return o(z,e,r)end;else if f>70 then for d=16,83 do if 71~=f then if(z[e[l]]<z[e[t]])then n=n+1;else n=e[h];end;break;end;z[e[l]]=z[e[h]]-z[e[t]];break;end;else if(z[e[l]]<z[e[t]])then n=n+1;else n=e[h];end;end end else if f<=74 then if f~=70 then repeat if 74>f then z[e[l]]();break;end;local f,p,s,k,a,b;for s=0,6 do if s>=3 then if 4<s then if s~=6 then f=e[l]b={z[f](o(z,f+1,r))};a=0;for e=f,e[t]do a=a+1;z[e]=b[a];end n=n+1;e=d[n];else n=e[h];end else if 1<=s then repeat if 3<s then f=e[l]b,k=u(z[f](o(z,f+1,r)))r=k+f-1 a=0;for e=f,r do a=a+1;z[e]=b[a];end;n=n+1;e=d[n];break;end;f=e[l]b,k=u(z[f](o(z,f+1,e[h])))r=k+f-1 a=0;for e=f,r do a=a+1;z[e]=b[a];end;n=n+1;e=d[n];until true;else f=e[l]b,k=u(z[f](o(z,f+1,r)))r=k+f-1 a=0;for e=f,r do a=a+1;z[e]=b[a];end;n=n+1;e=d[n];end end else if 1<=s then if-1<s then for o=31,58 do if s~=2 then f=e[l];p=z[e[h]];z[f+1]=p;z[f]=p[e[t]];n=n+1;e=d[n];break;end;z(e[l],e[h]);n=n+1;e=d[n];break;end;else z(e[l],e[h]);n=n+1;e=d[n];end else z[e[l]]=c[e[h]];n=n+1;e=d[n];end end end until true;else local f,p,b,k,a,s;for b=0,6 do if b>=3 then if 4<b then if b~=6 then f=e[l]s={z[f](o(z,f+1,r))};a=0;for e=f,e[t]do a=a+1;z[e]=s[a];end n=n+1;e=d[n];else n=e[h];end else if 1<=b then repeat if 3<b then f=e[l]s,k=u(z[f](o(z,f+1,r)))r=k+f-1 a=0;for e=f,r do a=a+1;z[e]=s[a];end;n=n+1;e=d[n];break;end;f=e[l]s,k=u(z[f](o(z,f+1,e[h])))r=k+f-1 a=0;for e=f,r do a=a+1;z[e]=s[a];end;n=n+1;e=d[n];until true;else f=e[l]s,k=u(z[f](o(z,f+1,r)))r=k+f-1 a=0;for e=f,r do a=a+1;z[e]=s[a];end;n=n+1;e=d[n];end end else if 1<=b then if-1<b then for o=31,58 do if b~=2 then f=e[l];p=z[e[h]];z[f+1]=p;z[f]=p[e[t]];n=n+1;e=d[n];break;end;z(e[l],e[h]);n=n+1;e=d[n];break;end;else z(e[l],e[h]);n=n+1;e=d[n];end else z[e[l]]=c[e[h]];n=n+1;e=d[n];end end end end else if 74<=f then for r=44,57 do if f~=75 then z[e[l]]=c[e[h]];break;end;local f,a;for r=0,6 do if 2<r then if r>4 then if r>=2 then repeat if r>5 then z[e[l]]=z[e[h]][e[t]];break;end;f=e[l]z[f](o(z,f+1,e[h]))n=n+1;e=d[n];until true;else f=e[l]z[f](o(z,f+1,e[h]))n=n+1;e=d[n];end else if r~=4 then f=e[l];a=z[e[h]];z[f+1]=a;z[f]=a[e[t]];n=n+1;e=d[n];else z[e[l]]=z[e[h]];n=n+1;e=d[n];end end else if 1>r then z[e[l]]=z[e[h]];n=n+1;e=d[n];else if r>0 then for o=32,77 do if r>1 then z[e[l]]=z[e[h]][e[t]];n=n+1;e=d[n];break;end;f=e[l]z[f](z[f+1])n=n+1;e=d[n];break;end;else f=e[l]z[f](z[f+1])n=n+1;e=d[n];end end end end break;end;else local f,a;for r=0,6 do if 2<r then if r>4 then if r>=2 then repeat if r>5 then z[e[l]]=z[e[h]][e[t]];break;end;f=e[l]z[f](o(z,f+1,e[h]))n=n+1;e=d[n];until true;else f=e[l]z[f](o(z,f+1,e[h]))n=n+1;e=d[n];end else if r~=4 then f=e[l];a=z[e[h]];z[f+1]=a;z[f]=a[e[t]];n=n+1;e=d[n];else z[e[l]]=z[e[h]];n=n+1;e=d[n];end end else if 1>r then z[e[l]]=z[e[h]];n=n+1;e=d[n];else if r>0 then for o=32,77 do if r>1 then z[e[l]]=z[e[h]][e[t]];n=n+1;e=d[n];break;end;f=e[l]z[f](z[f+1])n=n+1;e=d[n];break;end;else f=e[l]z[f](z[f+1])n=n+1;e=d[n];end end end end end end end else if 79<f then if f<82 then if 76~=f then repeat if 80~=f then local f,a;for r=0,6 do if r>=3 then if 4<r then if r>=2 then repeat if 5<r then z[e[l]]={};break;end;f=e[l]z[f]=z[f](z[f+1])n=n+1;e=d[n];until true;else z[e[l]]={};end else if 3==r then z[e[l]]=z[e[h]][e[t]];n=n+1;e=d[n];else f=e[l];a=z[e[h]];z[f+1]=a;z[f]=a[e[t]];n=n+1;e=d[n];end end else if r<1 then f=e[l];a=z[e[h]];z[f+1]=a;z[f]=a[e[t]];n=n+1;e=d[n];else if r~=-1 then for t=25,66 do if 2~=r then z(e[l],e[h]);n=n+1;e=d[n];break;end;f=e[l]z[f]=z[f](o(z,f+1,e[h]))n=n+1;e=d[n];break;end;else f=e[l]z[f]=z[f](o(z,f+1,e[h]))n=n+1;e=d[n];end end end end break;end;c[e[h]]=z[e[l]];until true;else local f,a;for r=0,6 do if r>=3 then if 4<r then if r>=2 then repeat if 5<r then z[e[l]]={};break;end;f=e[l]z[f]=z[f](z[f+1])n=n+1;e=d[n];until true;else z[e[l]]={};end else if 3==r then z[e[l]]=z[e[h]][e[t]];n=n+1;e=d[n];else f=e[l];a=z[e[h]];z[f+1]=a;z[f]=a[e[t]];n=n+1;e=d[n];end end else if r<1 then f=e[l];a=z[e[h]];z[f+1]=a;z[f]=a[e[t]];n=n+1;e=d[n];else if r~=-1 then for t=25,66 do if 2~=r then z(e[l],e[h]);n=n+1;e=d[n];break;end;f=e[l]z[f]=z[f](o(z,f+1,e[h]))n=n+1;e=d[n];break;end;else f=e[l]z[f]=z[f](o(z,f+1,e[h]))n=n+1;e=d[n];end end end end end else if f<83 then local e=e[l]z[e]=z[e](z[e+1])else if(e[l]<z[e[t]])then n=n+1;else n=e[h];end;end end else if 78<=f then if 78~=f then local o,r;for f=0,6 do if f<=2 then if 1<=f then if f==2 then o=e[l];r=z[e[h]];z[o+1]=r;z[o]=r[e[t]];n=n+1;e=d[n];else z[e[l]]=z[e[h]][e[t]];n=n+1;e=d[n];end else z[e[l]]=s[e[h]];n=n+1;e=d[n];end else if 5>f then if-1<f then for t=28,94 do if f>3 then z[e[l]]=s[e[h]];n=n+1;e=d[n];break;end;o=e[l]z[o](z[o+1])n=n+1;e=d[n];break;end;else z[e[l]]=s[e[h]];n=n+1;e=d[n];end else if 5~=f then z[e[l]][e[h]]=z[e[t]];else z[e[l]]=z[e[h]][e[t]];n=n+1;e=d[n];end end end end else local n=e[l];local l=z[n];for e=n+1,e[h]do a.YuTjLfUe(l,z[e])end;end else for f=0,1 do if f>-2 then repeat if 1>f then z[e[l]][e[h]]=z[e[t]];n=n+1;e=d[n];break;end;z[e[l]]=z[e[h]][e[t]];until true;else z[e[l]]=z[e[h]][e[t]];end end end end end end else if f<98 then if f<91 then if f>=87 then if f>=89 then if 88~=f then repeat if 90~=f then z[e[l]]=g(p[e[h]],nil,c);break;end;local e=e[l]z[e](z[e+1])until true;else local e=e[l]z[e](z[e+1])end else if 87~=f then if z[e[l]]then n=n+1;else n=e[h];end;else local t;t=e[l]z[t](o(z,t+1,e[h]))n=n+1;e=d[n];z[e[l]]=c[e[h]];n=n+1;e=d[n];z[e[l]]=c[e[h]];n=n+1;e=d[n];t=e[l]z[t]=z[t](z[t+1])n=n+1;e=d[n];z[e[l]]=c[e[h]];n=n+1;e=d[n];z[e[l]]=z[e[h]];n=n+1;e=d[n];z[e[l]]=(e[h]~=0);end end else if 85>f then z[e[l]]=z[e[h]]*z[e[t]];else if 83<f then repeat if 85~=f then local e=e[l]z[e](z[e+1])break;end;if(z[e[l]]==z[e[t]])then n=n+1;else n=e[h];end;until true;else local e=e[l]z[e](z[e+1])end end end else if 94<=f then if f<96 then if 95>f then if(z[e[l]]==z[e[t]])then n=n+1;else n=e[h];end;else z[e[l]]=c[e[h]];end else if 95<=f then repeat if 96~=f then local l=e[l]local h={z[l](z[l+1])};local n=0;for e=l,e[t]do n=n+1;z[e]=h[n];end break;end;for f=0,3 do if f>=2 then if f<3 then z[e[l]]=c[e[h]];n=n+1;e=d[n];else if(z[e[l]]==e[t])then n=n+1;else n=e[h];end;end else if f~=1 then z[e[l]]=(e[h]~=0);n=n+1;e=d[n];else c[e[h]]=z[e[l]];n=n+1;e=d[n];end end end until true;else local n=e[l]local h={z[n](z[n+1])};local l=0;for e=n,e[t]do l=l+1;z[e]=h[l];end end end else if f>=92 then if f>=90 then for n=30,52 do if f~=93 then local e=e[l]z[e]=z[e]()break;end;z(e[l],e[h]);break;end;else local e=e[l]z[e]=z[e]()end else local f,o;for t=0,4 do if t<2 then if-3~=t then repeat if 0<t then z[e[l]]={};n=n+1;e=d[n];break;end;z[e[l]]=c[e[h]];n=n+1;e=d[n];until true;else z[e[l]]={};n=n+1;e=d[n];end else if t<3 then z(e[l],e[h]);n=n+1;e=d[n];else if t>1 then for r=29,73 do if 3~=t then f=e[l];o=z[f];for e=f+1,e[h]do a.YuTjLfUe(o,z[e])end;break;end;z(e[l],e[h]);n=n+1;e=d[n];break;end;else z(e[l],e[h]);n=n+1;e=d[n];end end end end end end end else if 104<f then if 108<f then if f<=110 then if f>105 then for d=28,83 do if 110~=f then local d=e[l];local t=e[t];local l=d+2 local d={z[d](z[d+1],z[l])};for e=1,t do z[l+e]=d[e];end;local d=d[1]if d then z[l]=d n=e[h];else n=n+1;end;break;end;z[e[l]]=z[e[h]][z[e[t]]];break;end;else local l=e[l];local t=e[t];local d=l+2 local l={z[l](z[l+1],z[d])};for e=1,t do z[d+e]=l[e];end;local l=l[1]if l then z[d]=l n=e[h];else n=n+1;end;end else if 108~=f then repeat if f<112 then local d,a,r,t,f,o;local n=0;while n>-1 do if n<=3 then if 2<=n then if 1<n then for e=42,92 do if n<3 then r=h;break;end;t=z;break;end;else t=z;end else if n>=-2 then repeat if n<1 then d=e;break;end;a=l;until true;else d=e;end end else if 5>=n then if 4~=n then o=d[a];else f=t[d[r]];end else if 2<=n then repeat if n~=7 then z[o]=f;break;end;n=-2;until true;else z[o]=f;end end end n=n+1 end break;end;z[e[l]][e[h]]=z[e[t]];until true;else z[e[l]][e[h]]=z[e[t]];end end else if f<=106 then if 101~=f then for r=34,95 do if f<106 then local t;t=e[l]z[t](o(z,t+1,e[h]))n=n+1;e=d[n];do return end;break;end;z[e[l]][e[h]]=z[e[t]];n=n+1;e=d[n];z[e[l]]={};n=n+1;e=d[n];z[e[l]][e[h]]=e[t];n=n+1;e=d[n];z[e[l]][e[h]]=z[e[t]];n=n+1;e=d[n];z[e[l]]={};n=n+1;e=d[n];z[e[l]][e[h]]=z[e[t]];n=n+1;e=d[n];z[e[l]]={};break;end;else z[e[l]][e[h]]=z[e[t]];n=n+1;e=d[n];z[e[l]]={};n=n+1;e=d[n];z[e[l]][e[h]]=e[t];n=n+1;e=d[n];z[e[l]][e[h]]=z[e[t]];n=n+1;e=d[n];z[e[l]]={};n=n+1;e=d[n];z[e[l]][e[h]]=z[e[t]];n=n+1;e=d[n];z[e[l]]={};end else if f==108 then local r,f;for o=0,2 do if o>0 then if-3~=o then repeat if o>1 then r=e[l];f=z[e[h]];z[r+1]=f;z[r]=f[e[t]];break;end;z[e[l]]=z[e[h]][e[t]];n=n+1;e=d[n];until true;else z[e[l]]=z[e[h]][e[t]];n=n+1;e=d[n];end else z[e[l]][e[h]]=z[e[t]];n=n+1;e=d[n];end end else local n=e[l]local l,e=u(z[n](o(z,n+1,e[h])))r=e+n-1 local e=0;for n=n,r do e=e+1;z[n]=l[e];end;end end end else if 101>f then if 98<f then if f==100 then z[e[l]]=(e[h]~=0);else local o,f,k,r,a,s,u,b,c;local d=0;while d>-1 do if d>=3 then if d<=4 then if d>0 then repeat if 4>d then u=o[r];b=o[a];break;end;c=u==b and f[s]or 1+k;until true;else u=o[r];b=o[a];end else if d>=1 then repeat if d~=6 then n=c;break;end;d=-2;until true;else n=c;end end else if d>0 then if-1<d then for z=47,74 do if d<2 then f=e;k=n;break;end;r=f[l];a=f[t];s=h;break;end;else r=f[l];a=f[t];s=h;end else o=z;end end d=d+1 end end else local e=e[l]local l,n=u(z[e](o(z,e+1,r)))r=n+e-1 local n=0;for e=e,r do n=n+1;z[e]=l[n];end;end else if 103>f then if 101==f then z[e[l]][e[h]]=e[t];else local f,a;f=e[l];a=z[e[h]];z[f+1]=a;z[f]=a[e[t]];n=n+1;e=d[n];z[e[l]]=z[e[h]];n=n+1;e=d[n];f=e[l]z[f]=z[f](o(z,f+1,e[h]))n=n+1;e=d[n];f=e[l];a=z[e[h]];z[f+1]=a;z[f]=a[e[t]];n=n+1;e=d[n];f=e[l];do return z[f](o(z,f+1,e[h]))end;n=n+1;e=d[n];f=e[l];do return o(z,f,r)end;n=n+1;e=d[n];do return end;end else if f==103 then z[e[l]]=z[e[h]][e[t]];else local n=e[l];local l=z[n];for e=n+1,e[h]do a.YuTjLfUe(l,z[e])end;end end end end end end else if 27<f then if f<=41 then if f<=34 then if f>30 then if f>32 then if f~=33 then local n=e[l]z[n](o(z,n+1,e[h]))else z(e[l],e[h]);end else if 29<=f then for d=15,97 do if f<32 then local c,f,u,s,r,o,a,b,k;local d=0;while d>-1 do if 2>=d then if d<1 then c=z;else if-1<d then repeat if 2~=d then f=e;u=n;break;end;s=f[l];r=f[t];o=h;until true;else s=f[l];r=f[t];o=h;end end else if 4<d then if d<6 then n=k;else d=-2;end else if d>2 then for e=43,67 do if d~=4 then a=c[s];b=c[r];break;end;k=a==b and f[o]or 1+u;break;end;else k=a==b and f[o]or 1+u;end end end d=d+1 end break;end;z[e[l]]();break;end;else local u,f,r,k,s,o,a,c,b;local d=0;while d>-1 do if 2>=d then if d<1 then u=z;else if-1<d then repeat if 2~=d then f=e;r=n;break;end;k=f[l];s=f[t];o=h;until true;else k=f[l];s=f[t];o=h;end end else if 4<d then if d<6 then n=b;else d=-2;end else if d>2 then for e=43,67 do if d~=4 then a=u[k];c=u[s];break;end;b=a==c and f[o]or 1+r;break;end;else b=a==c and f[o]or 1+r;end end end d=d+1 end end end else if 28>=f then z[e[l]]={};else if f>=28 then for n=29,87 do if f~=30 then local l=e[l];local n=z[e[h]];z[l+1]=n;z[l]=n[e[t]];break;end;local e=e[l]local l,n=u(z[e](z[e+1]))r=n+e-1 local n=0;for e=e,r do n=n+1;z[e]=l[n];end;break;end;else local e=e[l]local l,n=u(z[e](z[e+1]))r=n+e-1 local n=0;for e=e,r do n=n+1;z[e]=l[n];end;end end end else if f<38 then if 36<=f then if f==37 then local e=e[l]z[e]=z[e](z[e+1])else local f,r;f=e[l]z[f]=z[f](o(z,f+1,e[h]))n=n+1;e=d[n];z[e[l]][e[h]]=z[e[t]];n=n+1;e=d[n];z[e[l]]=s[e[h]];n=n+1;e=d[n];z[e[l]]=z[e[h]][e[t]];n=n+1;e=d[n];z[e[l]]=z[e[h]][e[t]];n=n+1;e=d[n];f=e[l];r=z[e[h]];z[f+1]=r;z[f]=r[e[t]];end else local e=e[l];do return o(z,e,r)end;end else if 40<=f then if f>=38 then for o=24,98 do if f>40 then z[e[l]]=g(p[e[h]],nil,c);break;end;for f=0,1 do if f>=-1 then for o=16,86 do if f~=0 then z[e[l]]=z[e[h]][e[t]];break;end;z[e[l]][e[h]]=e[t];n=n+1;e=d[n];break;end;else z[e[l]]=z[e[h]][e[t]];end end break;end;else for f=0,1 do if f>=-1 then for o=16,86 do if f~=0 then z[e[l]]=z[e[h]][e[t]];break;end;z[e[l]][e[h]]=e[t];n=n+1;e=d[n];break;end;else z[e[l]]=z[e[h]][e[t]];end end end else if f==39 then if(z[e[l]]==e[t])then n=n+1;else n=e[h];end;else local n=e[l]z[n]=z[n](o(z,n+1,e[h]))end end end end else if 48<f then if 51>=f then if f<50 then for f=0,1 do if f>-2 then for o=34,62 do if 0<f then if not z[e[l]]then n=n+1;else n=e[h];end;break;end;z[e[l]]=z[e[h]][e[t]];n=n+1;e=d[n];break;end;else if not z[e[l]]then n=n+1;else n=e[h];end;end end else if 51==f then local n=e[l]local h={z[n](o(z,n+1,r))};local l=0;for e=n,e[t]do l=l+1;z[e]=h[l];end else local r=p[e[h]];local o;local f={};o=a.GURiUXcj({},{__index=function(n,e)local e=f[e];return e[1][e[2]];end,__newindex=function(z,e,n)local e=f[e]e[1][e[2]]=n;end;});for l=1,e[t]do n=n+1;local e=d[n];if e[_]==111 then f[l-1]={z,e[h]};else f[l-1]={s,e[h]};end;k[#k+1]=f;end;z[e[l]]=g(r,o,c);end end else if f>53 then if f~=52 then repeat if 55~=f then n=e[h];break;end;local n=e[l];do return z[n](o(z,n+1,e[h]))end;until true;else local n=e[l];do return z[n](o(z,n+1,e[h]))end;end else if 49~=f then for d=13,75 do if f~=53 then n=e[h];break;end;if(e[l]<z[e[t]])then n=n+1;else n=e[h];end;break;end;else n=e[h];end end end else if f>44 then if f<=46 then if f>=42 then repeat if f>45 then do return end;break;end;local f,r;f=e[l];r=z[e[h]];z[f+1]=r;z[f]=r[e[t]];n=n+1;e=d[n];z(e[l],e[h]);n=n+1;e=d[n];f=e[l]z[f]=z[f](o(z,f+1,e[h]))n=n+1;e=d[n];z[e[l]]=c[e[h]];n=n+1;e=d[n];f=e[l];r=z[e[h]];z[f+1]=r;z[f]=r[e[t]];n=n+1;e=d[n];z(e[l],e[h]);n=n+1;e=d[n];f=e[l]z[f]=z[f](o(z,f+1,e[h]))until true;else do return end;end else if 44~=f then for a=46,80 do if f>47 then local t;z[e[l]]=z[e[h]];n=n+1;e=d[n];z[e[l]]=z[e[h]];n=n+1;e=d[n];t=e[l];do return z[t](o(z,t+1,e[h]))end;n=n+1;e=d[n];t=e[l];do return o(z,t,r)end;n=n+1;e=d[n];do return end;break;end;for f=0,1 do if f>-1 then for o=14,73 do if f<1 then z[e[l]][e[h]]=z[e[t]];n=n+1;e=d[n];break;end;z[e[l]]=z[e[h]][e[t]];break;end;else z[e[l]]=z[e[h]][e[t]];end end break;end;else local t;z[e[l]]=z[e[h]];n=n+1;e=d[n];z[e[l]]=z[e[h]];n=n+1;e=d[n];t=e[l];do return z[t](o(z,t+1,e[h]))end;n=n+1;e=d[n];t=e[l];do return o(z,t,r)end;n=n+1;e=d[n];do return end;end end else if 43<=f then if 42~=f then for n=26,98 do if f~=43 then local n=e[l]z[n](o(z,n+1,e[h]))break;end;local n=e[l];do return z[n](o(z,n+1,e[h]))end;break;end;else local n=e[l]z[n](o(z,n+1,e[h]))end else z[e[l]]=z[e[h]][z[e[t]]];end end end end else if f>=14 then if 20>=f then if 16>=f then if 14<f then if 11<=f then repeat if 16~=f then local f,o;for r=0,1 do if-4<r then repeat if r~=0 then f=e[l]z[f]=z[f](z[f+1])break;end;f=e[l];o=z[e[h]];z[f+1]=o;z[f]=o[e[t]];n=n+1;e=d[n];until true;else f=e[l]z[f]=z[f](z[f+1])end end break;end;local e=e[l]z[e]=z[e]()until true;else local f,o;for r=0,1 do if-4<r then repeat if r~=0 then f=e[l]z[f]=z[f](z[f+1])break;end;f=e[l];o=z[e[h]];z[f+1]=o;z[f]=o[e[t]];n=n+1;e=d[n];until true;else f=e[l]z[f]=z[f](z[f+1])end end end else z[e[l]]={};end else if 19<=f then if 17<f then repeat if 20>f then if(z[e[l]]~=e[t])then n=n+1;else n=e[h];end;break;end;local r=p[e[h]];local o;local f={};o=a.GURiUXcj({},{__index=function(n,e)local e=f[e];return e[1][e[2]];end,__newindex=function(z,e,n)local e=f[e]e[1][e[2]]=n;end;});for l=1,e[t]do n=n+1;local e=d[n];if e[_]==111 then f[l-1]={z,e[h]};else f[l-1]={s,e[h]};end;k[#k+1]=f;end;z[e[l]]=g(r,o,c);until true;else local r=p[e[h]];local o;local f={};o=a.GURiUXcj({},{__index=function(n,e)local e=f[e];return e[1][e[2]];end,__newindex=function(z,e,n)local e=f[e]e[1][e[2]]=n;end;});for l=1,e[t]do n=n+1;local e=d[n];if e[_]==111 then f[l-1]={z,e[h]};else f[l-1]={s,e[h]};end;k[#k+1]=f;end;z[e[l]]=g(r,o,c);end else if 14~=f then repeat if f<18 then for f=0,6 do if 2<f then if f<5 then if 1~=f then for o=28,95 do if 4~=f then z[e[l]][e[h]]=e[t];n=n+1;e=d[n];break;end;z[e[l]]=s[e[h]];n=n+1;e=d[n];break;end;else z[e[l]]=s[e[h]];n=n+1;e=d[n];end else if f~=3 then repeat if 6>f then z[e[l]]=z[e[h]][e[t]];n=n+1;e=d[n];break;end;z[e[l]]=z[e[h]][e[t]];until true;else z[e[l]]=z[e[h]][e[t]];end end else if f<=0 then z[e[l]]=s[e[h]];n=n+1;e=d[n];else if-3<=f then repeat if 1<f then z[e[l]]=z[e[h]][e[t]];n=n+1;e=d[n];break;end;z[e[l]]=z[e[h]][e[t]];n=n+1;e=d[n];until true;else z[e[l]]=z[e[h]][e[t]];n=n+1;e=d[n];end end end end break;end;local l=e[l];local n=z[e[h]];z[l+1]=n;z[l]=n[e[t]];until true;else for f=0,6 do if 2<f then if f<5 then if 1~=f then for o=28,95 do if 4~=f then z[e[l]][e[h]]=e[t];n=n+1;e=d[n];break;end;z[e[l]]=s[e[h]];n=n+1;e=d[n];break;end;else z[e[l]]=s[e[h]];n=n+1;e=d[n];end else if f~=3 then repeat if 6>f then z[e[l]]=z[e[h]][e[t]];n=n+1;e=d[n];break;end;z[e[l]]=z[e[h]][e[t]];until true;else z[e[l]]=z[e[h]][e[t]];end end else if f<=0 then z[e[l]]=s[e[h]];n=n+1;e=d[n];else if-3<=f then repeat if 1<f then z[e[l]]=z[e[h]][e[t]];n=n+1;e=d[n];break;end;z[e[l]]=z[e[h]][e[t]];n=n+1;e=d[n];until true;else z[e[l]]=z[e[h]][e[t]];n=n+1;e=d[n];end end end end end end end else if 24>f then if f<=21 then z[e[l]]=z[e[h]];else if 18<f then for n=23,61 do if 23~=f then do return end;break;end;local n=e[l]local l,e=u(z[n](o(z,n+1,e[h])))r=e+n-1 local e=0;for n=n,r do e=e+1;z[n]=l[e];end;break;end;else local n=e[l]local l,e=u(z[n](o(z,n+1,e[h])))r=e+n-1 local e=0;for n=n,r do e=e+1;z[n]=l[e];end;end end else if 26<=f then if 23<=f then repeat if f>26 then z[e[l]]=(e[h]~=0);break;end;z[e[l]]=z[e[h]][e[t]];until true;else z[e[l]]=(e[h]~=0);end else if f==24 then local f,r;f=e[l];r=z[e[h]];z[f+1]=r;z[f]=r[e[t]];n=n+1;e=d[n];z(e[l],e[h]);n=n+1;e=d[n];f=e[l]z[f]=z[f](o(z,f+1,e[h]))n=n+1;e=d[n];z[e[l]]=z[e[h]][e[t]];n=n+1;e=d[n];f=e[l];r=z[e[h]];z[f+1]=r;z[f]=r[e[t]];n=n+1;e=d[n];z(e[l],e[h]);n=n+1;e=d[n];f=e[l]z[f]=z[f](o(z,f+1,e[h]))else if z[e[l]]then n=n+1;else n=e[h];end;end end end end else if f<=6 then if f<3 then if f<=0 then z[e[l]]=s[e[h]];else if f>-2 then repeat if 1~=f then z[e[l]]=z[e[h]]*z[e[t]];break;end;if not z[e[l]]then n=n+1;else n=e[h];end;until true;else z[e[l]]=z[e[h]]*z[e[t]];end end else if f<=4 then if-1~=f then for o=13,81 do if 4>f then if(z[e[l]]==e[t])then n=n+1;else n=e[h];end;break;end;for f=0,6 do if 2>=f then if f<1 then z[e[l]][e[h]]=z[e[t]];n=n+1;e=d[n];else if 1==f then z[e[l]][e[h]]=z[e[t]];n=n+1;e=d[n];else z[e[l]]={};n=n+1;e=d[n];end end else if f>4 then if 6>f then z[e[l]]=z[e[h]][e[t]];n=n+1;e=d[n];else z[e[l]]=z[e[h]][e[t]];end else if 3~=f then z[e[l]]=c[e[h]];n=n+1;e=d[n];else z[e[l]][e[h]]=e[t];n=n+1;e=d[n];end end end end break;end;else if(z[e[l]]==e[t])then n=n+1;else n=e[h];end;end else if 6~=f then local f,o;for t=0,4 do if t<2 then if t>=-1 then repeat if t~=1 then z[e[l]]=c[e[h]];n=n+1;e=d[n];break;end;z[e[l]]={};n=n+1;e=d[n];until true;else z[e[l]]=c[e[h]];n=n+1;e=d[n];end else if 3>t then z(e[l],e[h]);n=n+1;e=d[n];else if 1<=t then repeat if t~=4 then z(e[l],e[h]);n=n+1;e=d[n];break;end;f=e[l];o=z[f];for e=f+1,e[h]do a.YuTjLfUe(o,z[e])end;until true;else z(e[l],e[h]);n=n+1;e=d[n];end end end end else for f=0,6 do if f>=3 then if f<=4 then if 3==f then z[e[l]]=s[e[h]];n=n+1;e=d[n];else z[e[l]]=z[e[h]][e[t]];n=n+1;e=d[n];end else if 6==f then z[e[l]]=s[e[h]];else z[e[l]]=z[e[h]][e[t]];n=n+1;e=d[n];end end else if f>=1 then if f~=0 then repeat if f>1 then z[e[l]][e[h]]=z[e[t]];n=n+1;e=d[n];break;end;z[e[l]]=z[e[h]][e[t]];n=n+1;e=d[n];until true;else z[e[l]][e[h]]=z[e[t]];n=n+1;e=d[n];end else z[e[l]]=s[e[h]];n=n+1;e=d[n];end end end end end end else if 9<f then if 12>f then if 10~=f then if not z[e[l]]then n=n+1;else n=e[h];end;else for f=0,6 do if 3<=f then if f<5 then if f>=0 then repeat if 3<f then z(e[l],e[h]);n=n+1;e=d[n];break;end;z(e[l],e[h]);n=n+1;e=d[n];until true;else z(e[l],e[h]);n=n+1;e=d[n];end else if 4<f then repeat if f~=6 then z(e[l],e[h]);n=n+1;e=d[n];break;end;z(e[l],e[h]);until true;else z(e[l],e[h]);end end else if f>0 then if f~=-2 then repeat if 1~=f then z(e[l],e[h]);n=n+1;e=d[n];break;end;z[e[l]]=z[e[h]][e[t]];n=n+1;e=d[n];until true;else z[e[l]]=z[e[h]][e[t]];n=n+1;e=d[n];end else z[e[l]]=c[e[h]];n=n+1;e=d[n];end end end end else if f>8 then repeat if f~=12 then if(z[e[l]]<z[e[t]])then n=n+1;else n=e[h];end;break;end;local r;for f=0,6 do if f<3 then if f>0 then if-3<=f then repeat if f~=1 then z[e[l]]=z[e[h]][e[t]];n=n+1;e=d[n];break;end;z[e[l]]=z[e[h]][e[t]];n=n+1;e=d[n];until true;else z[e[l]]=z[e[h]][e[t]];n=n+1;e=d[n];end else z[e[l]]=z[e[h]][e[t]];n=n+1;e=d[n];end else if 5<=f then if 4<=f then repeat if 5~=f then z[e[l]]=z[e[h]][e[t]];break;end;z[e[l]]=s[e[h]];n=n+1;e=d[n];until true;else z[e[l]]=s[e[h]];n=n+1;e=d[n];end else if f>=-1 then repeat if f<4 then r=e[l]z[r]=z[r](o(z,r+1,e[h]))n=n+1;e=d[n];break;end;z[e[l]][e[h]]=z[e[t]];n=n+1;e=d[n];until true;else z[e[l]][e[h]]=z[e[t]];n=n+1;e=d[n];end end end end until true;else local r;for f=0,6 do if f<3 then if f>0 then if-3<=f then repeat if f~=1 then z[e[l]]=z[e[h]][e[t]];n=n+1;e=d[n];break;end;z[e[l]]=z[e[h]][e[t]];n=n+1;e=d[n];until true;else z[e[l]]=z[e[h]][e[t]];n=n+1;e=d[n];end else z[e[l]]=z[e[h]][e[t]];n=n+1;e=d[n];end else if 5<=f then if 4<=f then repeat if 5~=f then z[e[l]]=z[e[h]][e[t]];break;end;z[e[l]]=s[e[h]];n=n+1;e=d[n];until true;else z[e[l]]=s[e[h]];n=n+1;e=d[n];end else if f>=-1 then repeat if f<4 then r=e[l]z[r]=z[r](o(z,r+1,e[h]))n=n+1;e=d[n];break;end;z[e[l]][e[h]]=z[e[t]];n=n+1;e=d[n];until true;else z[e[l]][e[h]]=z[e[t]];n=n+1;e=d[n];end end end end end end else if f>=8 then if 8<f then for f=0,6 do if 3<=f then if 4>=f then if f>3 then z[e[l]]=z[e[h]][e[t]];n=n+1;e=d[n];else z[e[l]]=z[e[h]][e[t]];n=n+1;e=d[n];end else if f>=1 then for t=12,77 do if 5~=f then z[e[l]]=s[e[h]];break;end;z[e[l]]=c[e[h]];n=n+1;e=d[n];break;end;else z[e[l]]=s[e[h]];end end else if f>=1 then if-3~=f then for o=27,54 do if 1<f then z[e[l]]=s[e[h]];n=n+1;e=d[n];break;end;z[e[l]]=z[e[h]][e[t]];n=n+1;e=d[n];break;end;else z[e[l]]=s[e[h]];n=n+1;e=d[n];end else z[e[l]]=c[e[h]];n=n+1;e=d[n];end end end else z[e[l]][e[h]]=e[t];end else local l=e[l]local h={z[l](z[l+1])};local n=0;for e=l,e[t]do n=n+1;z[e]=h[n];end end end end end end end n=1+n;end;end;return ze end;local h=0xff;local r={};local t=(1);local l='';(function(n)local z=n local d=0x00 local e=0x00 z={(function(f)if d>0x22 then return f end d=d+1 e=(e+0x1010-f)%0x2e return(e%0x03==0x0 and(function(z)if not n[z]then e=e+0x01 n[z]=(0x73);end return true end)'fJbjz'and z[0x2](0x18e+f))or(e%0x03==0x2 and(function(z)if not n[z]then e=e+0x01 n[z]=(0xa5);h[2]=(h[2]*(ne(function()r()end,o(l))-ne(h[1],o(l))))+1;r[t]={};h=h[2];t=t+h;end return true end)'SWSEY'and z[0x3](f+0x20a))or(e%0x03==0x1 and(function(z)if not n[z]then e=e+0x01 n[z]=(0x34);end return true end)'FuYwI'and z[0x1](f+0x376))or f end),(function(t)if d>0x22 then return t end d=d+1 e=(e+0x60c-t)%0x4c return(e%0x03==0x2 and(function(z)if not n[z]then e=e+0x01 n[z]=(0x4a);end return true end)'uXsOR'and z[0x2](0x35a+t))or(e%0x03==0x1 and(function(z)if not n[z]then e=e+0x01 n[z]=(0xe5);l='\37';h={function()h()end};l=l..'\100\43';end return true end)'pdlDd'and z[0x3](t+0x35e))or(e%0x03==0x0 and(function(z)if not n[z]then e=e+0x01 n[z]=(0xdb);end return true end)'tZLpG'and z[0x1](t+0x3d7))or t end),(function(f)if d>0x2f then return f end d=d+1 e=(e+0x49b-f)%0x2e return(e%0x03==0x1 and(function(z)if not n[z]then e=e+0x01 n[z]=(0x3e);end return true end)'sbBGw'and z[0x3](0x28c+f))or(e%0x03==0x2 and(function(z)if not n[z]then e=e+0x01 n[z]=(0x9a);l={l..'\58 a',l};r[t]=ze();t=t+((not a.kcMnqUwr)and 1 or 0);l[1]='\58'..l[1];h[2]=0xff;end return true end)'jvCYq'and z[0x1](f+0x187))or(e%0x03==0x0 and(function(z)if not n[z]then e=e+0x01 n[z]=(0xf4);r[t]=le();t=t+h;end return true end)'CSFMo'and z[0x2](f+0x1ef))or f end)}z[0x2](0x1905)end){};local e=g(o(r));return e(...);end return ze((function()local n={}local e=0x01;local z;if a.kcMnqUwr then z=a.kcMnqUwr(ze)else z=''end if a.GcQgwThw(z,a.uAbRZUUm)then e=e+0;else e=e+1;end n[e]=0x02;n[n[e]+0x01]=0x03;return n;end)(),...)end)((function(e,n,z,l,h,d)local d;if 3>=e then if 1>=e then if-1<=e then repeat if 0~=e then do return function(z,e,n)if n then local e=(z/2^(e-1))%2^((n-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(z%(e+e)>=e)and 1 or 0;end;end;end;break;end;do return n(1),n(4,h,l,z,n),n(5,h,l,z)end;until true;else do return function(n,e,z)if z then local e=(n/2^(e-1))%2^((z-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(n%(e+e)>=e)and 1 or 0;end;end;end;end else if e>1 then repeat if e<3 then do return 16777216,65536,256 end;break;end;do return n(1),n(4,h,l,z,n),n(5,h,l,z)end;until true;else do return 16777216,65536,256 end;end end else if e>5 then if 6<e then if 6<e then for n=15,85 do if 7~=e then do return z(e,nil,z);end break;end;do return setmetatable({},{['__\99\97\108\108']=function(e,h,z,l,n)if n then return e[n]elseif l then return e else e[h]=z end end})end break;end;else do return setmetatable({},{['__\99\97\108\108']=function(e,l,h,z,n)if n then return e[n]elseif z then return e else e[l]=h end end})end end else do return h[z]end;end else if 2~=e then for d=45,60 do if e>4 then local e=l;do return function()local n=n(z,e(e,e),e(e,e));e(1);return n;end;end;break;end;local e=l;local d,h,l=h(2);do return function()local n,z,t,f=n(z,e(e,e),e(e,e)+3);e(4);return(f*d)+(t*h)+(z*l)+n;end;end;break;end;else local e=l;local l,d,h=h(2);do return function()local n,z,f,t=n(z,e(e,e),e(e,e)+3);e(4);return(t*l)+(f*d)+(z*h)+n;end;end;end end end end),...)
+local InputService = game:GetService('UserInputService');
+local TextService = game:GetService('TextService');
+local CoreGui = game:GetService('CoreGui');
+local Teams = game:GetService('Teams');
+local Players = game:GetService('Players');
+local RunService = game:GetService('RunService')
+local TweenService = game:GetService('TweenService');
+local RenderStepped = RunService.RenderStepped;
+local LocalPlayer = Players.LocalPlayer;
+local Mouse = LocalPlayer:GetMouse();
+
+local ProtectGui = protectgui or (syn and syn.protect_gui) or (function() end);
+
+local ScreenGui = Instance.new('ScreenGui');
+ProtectGui(ScreenGui);
+
+ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Global;
+ScreenGui.Parent = CoreGui;
+
+local Toggles = {};
+local Options = {};
+getgenv().Toggles = Toggles;
+getgenv().Options = Options;
+Toggles = Toggles;
+Options = Options;
+
+local Library = {
+	Registry = {};
+	RegistryMap = {};
+
+	HudRegistry = {};
+
+	FontColor = Color3.fromRGB(191, 191, 191);
+    FontColor2 = Color3.fromRGB(198, 198, 198);
+    MainColor = Color3.fromRGB(15, 15, 15);
+    MainColor2 = Color3.fromRGB(23, 23, 23);
+    BackgroundColor = Color3.fromRGB(16, 16, 16);
+    AccentColor = Color3.fromRGB(50, 150, 255);
+    OutlineColor = Color3.fromRGB(11, 11, 11);
+    RiskColor = Color3.fromRGB(255, 50, 50),
+
+	Black = Color3.new(0, 0, 0);
+	Font = Enum.Font.Code,
+
+	OpenedFrames = {};
+	DependencyBoxes = {};
+
+	Signals = {};
+	ScreenGui = ScreenGui;
+};
+
+local RainbowStep = 0
+local Hue = 0
+
+table.insert(Library.Signals, RenderStepped:Connect(function(Delta)
+	RainbowStep = RainbowStep + Delta
+
+	if RainbowStep >= (1 / 60) then
+		RainbowStep = 0
+
+		Hue = Hue + (1 / 400);
+
+		if Hue > 1 then
+			Hue = 0;
+		end;
+
+		Library.CurrentRainbowHue = Hue;
+		Library.CurrentRainbowColor = Color3.fromHSV(Hue, 0.8, 1);
+	end
+end))
+
+local function GetPlayersString()
+	local PlayerList = Players:GetPlayers();
+
+	for i = 1, #PlayerList do
+		PlayerList[i] = PlayerList[i].Name;
+	end;
+
+	table.sort(PlayerList, function(str1, str2) return str1 < str2 end);
+
+	return PlayerList;
+end;
+
+local function GetTeamsString()
+	local TeamList = Teams:GetTeams();
+
+	for i = 1, #TeamList do
+		TeamList[i] = TeamList[i].Name;
+	end;
+
+	table.sort(TeamList, function(str1, str2) return str1 < str2 end);
+
+	return TeamList;
+end;
+
+function Library:SafeCallback(f, ...)
+	if (not f) then
+		return;
+	end;
+
+
+
+	local success, event = pcall(f, ...);
+
+	if not success then
+		local _, i = event:find(":%d+: ");
+
+		if not i then
+			return Library:Notify(event);
+		end;
+
+		return Library:Notify(event:sub(i + 1), 3);
+	end;
+end;
+
+function Library:AttemptSave()
+	if Library.SaveManager then
+		Library.SaveManager:Save();
+	end;
+end;
+
+function Library:Create(Class, Properties)
+	local _Instance = Class;
+
+	if type(Class) == 'string' then
+		_Instance = Instance.new(Class);
+	end;
+
+	for Property, Value in next, Properties do
+		_Instance[Property] = Value;
+	end;
+
+	return _Instance;
+end;
+
+function Library:CreateLabel(Properties, IsHud)
+    local _Instance = Library:Create('TextLabel', {
+        BackgroundTransparency = 1;
+        Font = Enum.Font.Code;
+        TextColor3 = Library.FontColor or Library.AccentColor;
+        TextSize = 15;
+        TextStrokeTransparency = 0;
+    });
+
+    Library:AddToRegistry(_Instance, {
+        TextColor3 = 'FontColor';
+    }, IsHud);
+
+    return Library:Create(_Instance, Properties);
+end;
+
+function Library:CreateLabel2(Properties, IsHud)
+    local _Instance = Library:Create('TextLabel', {
+        BackgroundTransparency = 1;
+        Font = Enum.Font.Code;
+        TextColor3 = Library.FontColor2;
+        TextSize = 16;
+        TextStrokeTransparency = 0;
+    });
+    Library:AddToRegistry(_Instance, {
+        TextColor3 = 'FontColor2';
+    }, IsHud);
+    return Library:Create(_Instance, Properties);
+end;
+
+
+function Library:ApplyTextStroke(Inst)
+	Inst.TextStrokeTransparency = 1;
+
+	Library:Create('UIStroke', {
+		Color = Color3.new(0, 0, 0);
+		Thickness = 1;
+		LineJoinMode = Enum.LineJoinMode.Miter;
+		Parent = Inst;
+	});
+end;
+
+function Library:MakeDraggable(Instance, Cutoff)
+	Instance.Active = true;
+
+	Instance.InputBegan:Connect(function(Input)
+		if Input.UserInputType == Enum.UserInputType.MouseButton1 then
+			local ObjPos = Vector2.new(
+				Mouse.X - Instance.AbsolutePosition.X,
+				Mouse.Y - Instance.AbsolutePosition.Y
+			);
+
+			if ObjPos.Y > (Cutoff or 40) then
+				return;
+			end;
+
+			while InputService:IsMouseButtonPressed(Enum.UserInputType.MouseButton1) do
+				Instance.Position = UDim2.new(
+					0,
+					Mouse.X - ObjPos.X + (Instance.Size.X.Offset * Instance.AnchorPoint.X),
+					0,
+					Mouse.Y - ObjPos.Y + (Instance.Size.Y.Offset * Instance.AnchorPoint.Y)
+				);
+
+				RenderStepped:Wait();
+			end;
+		end;
+	end)
+end;
+
+function Library:AddToolTip(InfoStr, HoverInstance)
+	local X, Y = Library:GetTextBounds(InfoStr, Library.Font, 14);
+	local Tooltip = Library:Create('Frame', {
+		BackgroundColor3 = Library.MainColor,
+		BorderColor3 = Library.OutlineColor,
+
+		Size = UDim2.fromOffset(X + 5, Y + 4),
+		ZIndex = 100,
+		Parent = Library.ScreenGui,
+
+		Visible = false,
+	})
+
+	local Label = Library:CreateLabel({
+		Position = UDim2.fromOffset(3, 1),
+		Size = UDim2.fromOffset(X, Y);
+		TextSize = 14;
+		Text = InfoStr,
+		TextColor3 = Library.FontColor,
+		TextXAlignment = Enum.TextXAlignment.Left;
+		ZIndex = Tooltip.ZIndex + 1,
+
+		Parent = Tooltip;
+	});
+
+	Library:AddToRegistry(Tooltip, {
+		BackgroundColor3 = 'MainColor';
+		BorderColor3 = 'OutlineColor';
+	});
+
+	Library:AddToRegistry(Label, {
+		TextColor3 = 'FontColor',
+	});
+
+	local IsHovering = false
+
+	HoverInstance.MouseEnter:Connect(function()
+		if Library:MouseIsOverOpenedFrame() then
+			return
+		end
+
+		IsHovering = true
+
+		Tooltip.Position = UDim2.fromOffset(Mouse.X + 15, Mouse.Y + 12)
+		Tooltip.Visible = true
+
+		while IsHovering do
+			RunService.Heartbeat:Wait()
+			Tooltip.Position = UDim2.fromOffset(Mouse.X + 15, Mouse.Y + 12)
+		end
+	end)
+
+	HoverInstance.MouseLeave:Connect(function()
+		IsHovering = false
+		Tooltip.Visible = false
+	end)
+end
+
+function Library:OnHighlight(HighlightInstance, Instance, Properties, PropertiesDefault)
+	HighlightInstance.MouseEnter:Connect(function()
+		local Reg = Library.RegistryMap[Instance];
+
+		for Property, ColorIdx in next, Properties do
+			Instance[Property] = Library[ColorIdx] or ColorIdx;
+
+			if Reg and Reg.Properties[Property] then
+				Reg.Properties[Property] = ColorIdx;
+			end;
+		end;
+	end)
+
+	HighlightInstance.MouseLeave:Connect(function()
+		local Reg = Library.RegistryMap[Instance];
+
+		for Property, ColorIdx in next, PropertiesDefault do
+			Instance[Property] = Library[ColorIdx] or ColorIdx;
+
+			if Reg and Reg.Properties[Property] then
+				Reg.Properties[Property] = ColorIdx;
+			end;
+		end;
+	end)
+end;
+
+function Library:MouseIsOverOpenedFrame()
+	for Frame, _ in next, Library.OpenedFrames do
+		local AbsPos, AbsSize = Frame.AbsolutePosition, Frame.AbsoluteSize;
+
+		if Mouse.X >= AbsPos.X and Mouse.X <= AbsPos.X + AbsSize.X
+			and Mouse.Y >= AbsPos.Y and Mouse.Y <= AbsPos.Y + AbsSize.Y then
+
+			return true;
+		end;
+	end;
+end;
+
+function Library:IsMouseOverFrame(Frame)
+	local AbsPos, AbsSize = Frame.AbsolutePosition, Frame.AbsoluteSize;
+
+	if Mouse.X >= AbsPos.X and Mouse.X <= AbsPos.X + AbsSize.X
+		and Mouse.Y >= AbsPos.Y and Mouse.Y <= AbsPos.Y + AbsSize.Y then
+
+		return true;
+	end;
+end;
+
+function Library:UpdateDependencyBoxes()
+	for _, Depbox in next, Library.DependencyBoxes do
+		Depbox:Update();
+	end;
+end;
+
+function Library:MapValue(Value, MinA, MaxA, MinB, MaxB)
+	return (1 - ((Value - MinA) / (MaxA - MinA))) * MinB + ((Value - MinA) / (MaxA - MinA)) * MaxB;
+end;
+
+function Library:GetTextBounds(Text, Font, Size, Resolution)
+	local Bounds = TextService:GetTextSize(Text, Size, Font, Resolution or Vector2.new(1920, 1080))
+	return Bounds.X, Bounds.Y
+end;
+
+function Library:GetDarkerColor(Color)
+	local H, S, V = Color3.toHSV(Color);
+	return Color3.fromHSV(H, S, V / 1.5);
+end;
+Library.AccentColorDark = Library:GetDarkerColor(Library.AccentColor);
+
+function Library:AddToRegistry(Instance, Properties, IsHud)
+	local Idx = #Library.Registry + 1;
+	local Data = {
+		Instance = Instance;
+		Properties = Properties;
+		Idx = Idx;
+	};
+
+	table.insert(Library.Registry, Data);
+	Library.RegistryMap[Instance] = Data;
+
+	if IsHud then
+		table.insert(Library.HudRegistry, Data);
+	end;
+end;
+
+function Library:RemoveFromRegistry(Instance)
+	local Data = Library.RegistryMap[Instance];
+
+	if Data then
+		for Idx = #Library.Registry, 1, -1 do
+			if Library.Registry[Idx] == Data then
+				table.remove(Library.Registry, Idx);
+			end;
+		end;
+
+		for Idx = #Library.HudRegistry, 1, -1 do
+			if Library.HudRegistry[Idx] == Data then
+				table.remove(Library.HudRegistry, Idx);
+			end;
+		end;
+
+		Library.RegistryMap[Instance] = nil;
+	end;
+end;
+
+function Library:UpdateColorsUsingRegistry()
+	-- TODO: Could have an 'active' list of objects
+	-- where the active list only contains Visible objects.
+
+	-- IMPL: Could setup .Changed events on the AddToRegistry function
+	-- that listens for the 'Visible' propert being changed.
+	-- Visible: true => Add to active list, and call UpdateColors function
+	-- Visible: false => Remove from active list.
+
+	-- The above would be especially efficient for a rainbow menu color or live color-changing.
+
+	for Idx, Object in next, Library.Registry do
+		for Property, ColorIdx in next, Object.Properties do
+			if type(ColorIdx) == 'string' then
+				Object.Instance[Property] = Library[ColorIdx];
+			elseif type(ColorIdx) == 'function' then
+				Object.Instance[Property] = ColorIdx()
+			end
+		end;
+	end;
+end;
+
+function Library:GiveSignal(Signal)
+	-- Only used for signals not attached to library instances, as those should be cleaned up on object destruction by Roblox
+	table.insert(Library.Signals, Signal)
+end
+
+function Library:Unload()
+	-- Unload all of the signals
+	for Idx = #Library.Signals, 1, -1 do
+		local Connection = table.remove(Library.Signals, Idx)
+		Connection:Disconnect()
+	end
+
+	-- Call our unload callback, maybe to undo some hooks etc
+	if Library.OnUnload then
+		Library.OnUnload()
+	end
+
+	ScreenGui:Destroy()
+end
+
+function Library:OnUnload(Callback)
+	Library.OnUnload = Callback
+end
+
+Library:GiveSignal(ScreenGui.DescendantRemoving:Connect(function(Instance)
+	if Library.RegistryMap[Instance] then
+		Library:RemoveFromRegistry(Instance);
+	end;
+end))
+
+local BaseAddons = {};
+
+do
+    local Funcs = {};
+
+    function Funcs:AddColorPicker(Idx, Info)
+        local ToggleLabel = self.TextLabel;
+        local Container = self.Container;
+
+        local ColorPicker = {
+            Value = Info.Default;
+            Type = 'ColorPicker';
+            Title = type(Info.Title) == 'string' and Info.Title or 'Color picker',
+        };
+
+        function ColorPicker:SetHSVFromRGB(Color)
+            local H, S, V = Color3.toHSV(Color);
+
+            ColorPicker.Hue = H;
+            ColorPicker.Sat = S;
+            ColorPicker.Vib = V;
+        end;
+
+        ColorPicker:SetHSVFromRGB(ColorPicker.Value);
+
+        local DisplayFrame = Library:Create('Frame', {
+            BackgroundColor3 = ColorPicker.Value;
+            BorderColor3 = Library:GetDarkerColor(ColorPicker.Value);
+            BorderMode = Enum.BorderMode.Inset;
+            Size = UDim2.new(0, 28, 0, 14);
+            ZIndex = 6;
+            Parent = ToggleLabel;
+        });
+
+        local RelativeOffset = 0;
+
+        for _, Element in next, Container:GetChildren() do
+            if not Element:IsA('UIListLayout') then
+                RelativeOffset = RelativeOffset + Element.Size.Y.Offset;
+            end;
+        end;
+
+        local PickerFrameOuter = Library:Create('Frame', {
+            Name = 'Color';
+            BackgroundColor3 = Color3.new(1, 1, 1);
+            BorderColor3 = Color3.new(0, 0, 0);
+            Position = UDim2.new(0, 4, 0, 20 + RelativeOffset + 1);
+            Size = UDim2.new(1, -13, 0, 253);
+            Visible = false;
+            ZIndex = 15;
+            Parent = Container.Parent;
+        });
+
+        local PickerFrameInner = Library:Create('Frame', {
+            BackgroundColor3 = Library.BackgroundColor;
+            BorderColor3 = Library.OutlineColor;
+            BorderMode = Enum.BorderMode.Inset;
+            Size = UDim2.new(1, 0, 1, 0);
+            ZIndex = 16;
+            Parent = PickerFrameOuter;
+        });
+
+        local Highlight = Library:Create('Frame', {
+            BackgroundColor3 = Library.AccentColor;
+            BorderSizePixel = 0;
+            Size = UDim2.new(1, 0, 0, 2);
+            ZIndex = 17;
+            Parent = PickerFrameInner;
+        });
+
+        local SatVibMapOuter = Library:Create('Frame', {
+            BorderColor3 = Color3.new(0, 0, 0);
+            Position = UDim2.new(0, 4, 0, 25);
+            Size = UDim2.new(0, 200, 0, 200);
+            ZIndex = 17;
+            Parent = PickerFrameInner;
+        });
+
+        local SatVibMapInner = Library:Create('Frame', {
+            BackgroundColor3 = Library.BackgroundColor;
+            BorderColor3 = Library.OutlineColor;
+            BorderMode = Enum.BorderMode.Inset;
+            Size = UDim2.new(1, 0, 1, 0);
+            ZIndex = 18;
+            Parent = SatVibMapOuter;
+        });
+
+        local SatVibMap = Library:Create('ImageLabel', {
+            BorderSizePixel = 0;
+            Size = UDim2.new(1, 0, 1, 0);
+            ZIndex = 18;
+            Image = 'rbxassetid://4155801252';
+            Parent = SatVibMapInner;
+        });
+
+        local HueSelectorOuter = Library:Create('Frame', {
+            BorderColor3 = Color3.new(0, 0, 0);
+            Position = UDim2.new(0, 208, 0, 25);
+            Size = UDim2.new(0, 15, 0, 200);
+            ZIndex = 17;
+            Parent = PickerFrameInner;
+        });
+
+        local HueSelectorInner = Library:Create('Frame', {
+            BackgroundColor3 = Color3.new(1, 1, 1);
+            BorderSizePixel = 0;
+            Size = UDim2.new(1, 0, 1, 0);
+            ZIndex = 18;
+            Parent = HueSelectorOuter;
+        });
+
+        local HueTextSize = Library:GetTextBounds('Hex color', Enum.Font.Code, 16) + 3
+        local RgbTextSize = Library:GetTextBounds('255, 255, 255', Enum.Font.Code, 16) + 3
+
+        local HueBoxOuter = Library:Create('Frame', {
+            BorderColor3 = Color3.new(0, 0, 0);
+            Position = UDim2.fromOffset(4, 228),
+            Size = UDim2.new(0.5, -6, 0, 20),
+            ZIndex = 18,
+            Parent = PickerFrameInner;
+        });
+
+        local HueBoxInner = Library:Create('Frame', {
+            BackgroundColor3 = Library.MainColor;
+            BorderColor3 = Library.OutlineColor;
+            BorderMode = Enum.BorderMode.Inset;
+            Size = UDim2.new(1, 0, 1, 0);
+            ZIndex = 18,
+            Parent = HueBoxOuter;
+        });
+
+        Library:Create('UIGradient', {
+            Color = ColorSequence.new({
+                ColorSequenceKeypoint.new(0, Color3.new(1, 1, 1)),
+                ColorSequenceKeypoint.new(1, Color3.fromRGB(212, 212, 212))
+            });
+            Rotation = 90;
+            Parent = HueBoxInner;
+        });
+
+        local HueBox = Library:Create('TextBox', {
+            BackgroundTransparency = 1;
+            Position = UDim2.new(0, 5, 0, 0);
+            Size = UDim2.new(1, -5, 1, 0);
+            Font = Enum.Font.Code;
+            PlaceholderColor3 = Color3.fromRGB(190, 190, 190);
+            PlaceholderText = 'Hex color',
+            Text = '#FFFFFF',
+            TextColor3 = Library.FontColor;
+            TextSize = 14;
+            TextStrokeTransparency = 0;
+            TextXAlignment = Enum.TextXAlignment.Left;
+            ZIndex = 20,
+            Parent = HueBoxInner;
+        });
+
+        local RgbBoxBase = Library:Create(HueBoxOuter:Clone(), {
+            Position = UDim2.new(0.5, 2, 0, 228),
+            Size = UDim2.new(0.5, -6, 0, 20),
+            Parent = PickerFrameInner
+        })  
+
+        local RgbBox = Library:Create(RgbBoxBase.Frame:FindFirstChild('TextBox'), {
+            Text = '255, 255, 255',
+            PlaceholderText = 'RGB color',
+            TextColor3 = Library.FontColor,
+        })
+
+        local DisplayLabel = Library:CreateLabel({
+            Size = UDim2.new(1, 0, 0, 14);
+            Position = UDim2.fromOffset(5, 5);
+            TextXAlignment = Enum.TextXAlignment.Left;
+            TextSize = 14;
+            Text = ColorPicker.Title,--Info.Default;
+            TextWrapped = false;
+            ZIndex = 16;
+            Parent = PickerFrameInner;
+        });
+
+
+        Library:AddToRegistry(PickerFrameInner, { BackgroundColor3 = 'BackgroundColor'; BorderColor3 = 'OutlineColor'; });
+        Library:AddToRegistry(Highlight, { BackgroundColor3 = 'AccentColor'; });
+        Library:AddToRegistry(SatVibMapInner, { BackgroundColor3 = 'BackgroundColor'; BorderColor3 = 'OutlineColor'; });
+
+        Library:AddToRegistry(HueBoxInner, { BackgroundColor3 = 'MainColor'; BorderColor3 = 'OutlineColor'; });
+        Library:AddToRegistry(RgbBoxBase.Frame, { BackgroundColor3 = 'MainColor'; BorderColor3 = 'OutlineColor'; });
+        Library:AddToRegistry(RgbBox, { TextColor3 = 'FontColor', });
+        Library:AddToRegistry(HueBox, { TextColor3 = 'FontColor', });
+
+        local SequenceTable = {};
+
+        for Hue = 0, 1, 0.1 do
+            table.insert(SequenceTable, ColorSequenceKeypoint.new(Hue, Color3.fromHSV(Hue, 1, 1)));
+        end;
+
+        local HueSelectorGradient = Library:Create('UIGradient', {
+            Color = ColorSequence.new(SequenceTable);
+            Rotation = 90;
+            Parent = HueSelectorInner;
+        });
+        
+        HueBox.FocusLost:Connect(function(enter)
+            if enter then
+                local success, result = pcall(Color3.fromHex, HueBox.Text)
+                if success and typeof(result) == 'Color3' then
+                    ColorPicker.Hue, ColorPicker.Sat, ColorPicker.Vib = Color3.toHSV(result)
+                end
+            end
+
+            ColorPicker:Display()
+        end)
+
+        RgbBox.FocusLost:Connect(function(enter)
+            if enter then
+                local r, g, b = RgbBox.Text:match('(%d+),%s*(%d+),%s*(%d+)')
+                if r and g and b then
+                    ColorPicker.Hue, ColorPicker.Sat, ColorPicker.Vib = Color3.toHSV(Color3.fromRGB(r, g, b))
+                end
+            end
+
+            ColorPicker:Display()
+        end)
+
+        function ColorPicker:Display()
+            ColorPicker.Value = Color3.fromHSV(ColorPicker.Hue, ColorPicker.Sat, ColorPicker.Vib);
+            SatVibMap.BackgroundColor3 = Color3.fromHSV(ColorPicker.Hue, 1, 1);
+
+            Library:Create(DisplayFrame, {
+                BackgroundColor3 = ColorPicker.Value;
+                BorderColor3 = Library:GetDarkerColor(ColorPicker.Value);
+            });
+
+            HueBox.Text = '#' .. ColorPicker.Value:ToHex()
+            RgbBox.Text = table.concat({ math.floor(ColorPicker.Value.R * 255), math.floor(ColorPicker.Value.G * 255), math.floor(ColorPicker.Value.B * 255) }, ', ')
+
+            if ColorPicker.Changed then
+                ColorPicker.Changed(ColorPicker.Value)
+            end;
+        end;
+
+        function ColorPicker:OnChanged(Func)
+            ColorPicker.Changed = Func;
+            Func(ColorPicker.Value)
+        end;
+
+        function ColorPicker:Show()
+            for Frame, Val in next, Library.OpenedFrames do
+                if Frame.Name == 'Color' then
+                    Frame.Visible = false;
+                    Library.OpenedFrames[Frame] = nil;
+                end;
+            end;
+
+            PickerFrameOuter.Visible = true;
+            Library.OpenedFrames[PickerFrameOuter] = true;
+        end;
+
+        function ColorPicker:Hide()
+            PickerFrameOuter.Visible = false;
+            Library.OpenedFrames[PickerFrameOuter] = nil;
+        end;
+
+        function ColorPicker:SetValue(HSV)
+            local Color = Color3.fromHSV(HSV[1], HSV[2], HSV[3]);
+
+            ColorPicker:SetHSVFromRGB(Color);
+            ColorPicker:Display();
+        end;
+
+        function ColorPicker:SetValueRGB(Color)
+            ColorPicker:SetHSVFromRGB(Color);
+            ColorPicker:Display();
+        end;
+
+        SatVibMap.InputBegan:Connect(function(Input)
+            if Input.UserInputType == Enum.UserInputType.MouseButton1 then
+                while InputService:IsMouseButtonPressed(Enum.UserInputType.MouseButton1) do
+                    local MinX = SatVibMap.AbsolutePosition.X;
+                    local MaxX = MinX + SatVibMap.AbsoluteSize.X;
+                    local MouseX = math.clamp(Mouse.X, MinX, MaxX);
+
+                    local MinY = SatVibMap.AbsolutePosition.Y;
+                    local MaxY = MinY + SatVibMap.AbsoluteSize.Y;
+                    local MouseY = math.clamp(Mouse.Y, MinY, MaxY);
+
+                    ColorPicker.Sat = (MouseX - MinX) / (MaxX - MinX);
+                    ColorPicker.Vib = 1 - ((MouseY - MinY) / (MaxY - MinY));
+                    ColorPicker:Display();
+
+                    RenderStepped:Wait();
+                end;
+
+                Library:AttemptSave();
+            end;
+        end);
+
+        HueSelectorInner.InputBegan:Connect(function(Input)
+            if Input.UserInputType == Enum.UserInputType.MouseButton1 then
+                while InputService:IsMouseButtonPressed(Enum.UserInputType.MouseButton1) do
+                    local MinY = HueSelectorInner.AbsolutePosition.Y;
+                    local MaxY = MinY + HueSelectorInner.AbsoluteSize.Y;
+                    local MouseY = math.clamp(Mouse.Y, MinY, MaxY);
+
+                    ColorPicker.Hue = ((MouseY - MinY) / (MaxY - MinY));
+                    ColorPicker:Display();
+
+                    RenderStepped:Wait();
+                end;
+
+                Library:AttemptSave();
+            end;
+        end);
+
+        DisplayFrame.InputBegan:Connect(function(Input)
+            if Input.UserInputType == Enum.UserInputType.MouseButton1 and not Library:MouseIsOverOpenedFrame() then
+                if PickerFrameOuter.Visible then
+                    ColorPicker:Hide();
+                else
+                    ColorPicker:Show();
+                end;
+            end;
+        end);
+
+        Library:GiveSignal(InputService.InputBegan:Connect(function(Input)
+            if Input.UserInputType == Enum.UserInputType.MouseButton1 then
+                local AbsPos, AbsSize = PickerFrameOuter.AbsolutePosition, PickerFrameOuter.AbsoluteSize;
+
+                if Mouse.X < AbsPos.X or Mouse.X > AbsPos.X + AbsSize.X
+                    or Mouse.Y < (AbsPos.Y - 20 - 1) or Mouse.Y > AbsPos.Y + AbsSize.Y then
+
+                    ColorPicker:Hide();
+                end;
+            end;
+        end))
+
+        ColorPicker:Display();
+        ColorPicker.DisplayFrame = DisplayFrame
+
+        Options[Idx] = ColorPicker;
+
+        return self;
+    end;
+
+	function Funcs:AddKeyPicker(Idx, Info)
+		local ParentObj = self;
+		local ToggleLabel = self.TextLabel;
+		local Container = self.Container;
+
+		assert(Info.Default, 'AddKeyPicker: Missing default value.');
+
+		local KeyPicker = {
+			Value = Info.Default;
+			Toggled = false;
+			Mode = Info.Mode or 'Toggle'; -- Always, Toggle, Hold
+			Type = 'KeyPicker';
+			Callback = Info.Callback or function(Value) end;
+			ChangedCallback = Info.ChangedCallback or function(New) end;
+
+			SyncToggleState = Info.SyncToggleState or false;
+		};
+
+		if KeyPicker.SyncToggleState then
+			Info.Modes = { 'Toggle' }
+			Info.Mode = 'Toggle'
+		end
+
+		local PickOuter = Library:Create('Frame', {
+			BackgroundColor3 = Color3.new(0, 0, 0);
+			BorderColor3 = Color3.new(0, 0, 0);
+			Size = UDim2.new(0, 28, 0, 15);
+			ZIndex = 6;
+			Parent = ToggleLabel;
+		});
+
+		local PickInner = Library:Create('Frame', {
+			BackgroundColor3 = Library.BackgroundColor;
+			BorderColor3 = Library.OutlineColor;
+			BorderMode = Enum.BorderMode.Inset;
+			Size = UDim2.new(1, 0, 1, 0);
+			ZIndex = 7;
+			Parent = PickOuter;
+		});
+
+		Library:AddToRegistry(PickInner, {
+			BackgroundColor3 = 'BackgroundColor';
+			BorderColor3 = 'OutlineColor';
+		});
+
+		local DisplayLabel = Library:CreateLabel({
+			Size = UDim2.new(1, 0, 1, 0);
+			TextSize = 13;
+			Text = Info.Default;
+			TextWrapped = true;
+			ZIndex = 8;
+			Parent = PickInner;
+		});
+
+		local ModeSelectOuter = Library:Create('Frame', {
+			BorderColor3 = Color3.new(0, 0, 0);
+			Position = UDim2.fromOffset(ToggleLabel.AbsolutePosition.X + ToggleLabel.AbsoluteSize.X + 4, ToggleLabel.AbsolutePosition.Y + 1);
+			Size = UDim2.new(0, 60, 0, 45 + 2);
+			Visible = false;
+			ZIndex = 14;
+			Parent = ScreenGui;
+		});
+
+		ToggleLabel:GetPropertyChangedSignal('AbsolutePosition'):Connect(function()
+			ModeSelectOuter.Position = UDim2.fromOffset(ToggleLabel.AbsolutePosition.X + ToggleLabel.AbsoluteSize.X + 4, ToggleLabel.AbsolutePosition.Y + 1);
+		end);
+
+		local ModeSelectInner = Library:Create('Frame', {
+			BackgroundColor3 = Library.BackgroundColor;
+			BorderColor3 = Library.OutlineColor;
+			BorderMode = Enum.BorderMode.Inset;
+			Size = UDim2.new(1, 0, 1, 0);
+			ZIndex = 15;
+			Parent = ModeSelectOuter;
+		});
+
+		Library:AddToRegistry(ModeSelectInner, {
+			BackgroundColor3 = 'BackgroundColor';
+			BorderColor3 = 'OutlineColor';
+		});
+
+		Library:Create('UIListLayout', {
+			FillDirection = Enum.FillDirection.Vertical;
+			SortOrder = Enum.SortOrder.LayoutOrder;
+			Parent = ModeSelectInner;
+		});
+
+		local ContainerLabel = Library:CreateLabel({
+			TextXAlignment = Enum.TextXAlignment.Left;
+			Size = UDim2.new(1, 0, 0, 18);
+			TextSize = 13;
+			Visible = false;
+			ZIndex = 110;
+			Parent = Library.KeybindContainer;
+		},  true);
+
+		local Modes = Info.Modes or { 'Always', 'Toggle', 'Hold' };
+		local ModeButtons = {};
+
+		for Idx, Mode in next, Modes do
+			local ModeButton = {};
+
+			local Label = Library:CreateLabel({
+				Active = false;
+				Size = UDim2.new(1, 0, 0, 15);
+				TextSize = 13;
+				Text = Mode;
+				ZIndex = 16;
+				Parent = ModeSelectInner;
+			});
+
+			function ModeButton:Select()
+				for _, Button in next, ModeButtons do
+					Button:Deselect();
+				end;
+
+				KeyPicker.Mode = Mode;
+
+				Label.TextColor3 = Library.AccentColor;
+				Library.RegistryMap[Label].Properties.TextColor3 = 'AccentColor';
+
+				ModeSelectOuter.Visible = false;
+			end;
+
+			function ModeButton:Deselect()
+				KeyPicker.Mode = nil;
+
+				Label.TextColor3 = Library.FontColor;
+				Library.RegistryMap[Label].Properties.TextColor3 = 'FontColor';
+			end;
+
+			Label.InputBegan:Connect(function(Input)
+				if Input.UserInputType == Enum.UserInputType.MouseButton1 then
+					ModeButton:Select();
+					Library:AttemptSave();
+				end;
+			end);
+
+			if Mode == KeyPicker.Mode then
+				ModeButton:Select();
+			end;
+
+			ModeButtons[Mode] = ModeButton;
+		end;
+
+		function KeyPicker:Update()
+			if Info.NoUI then
+				return;
+			end;
+
+			local State = KeyPicker:GetState();
+
+			ContainerLabel.Text = string.format('[%s] %s (%s)', KeyPicker.Value, Info.Text, KeyPicker.Mode);
+
+			ContainerLabel.Visible = true;
+			ContainerLabel.TextColor3 = State and Library.AccentColor or Library.FontColor;
+
+			Library.RegistryMap[ContainerLabel].Properties.TextColor3 = State and 'AccentColor' or 'FontColor';
+
+			local YSize = 0
+			local XSize = 0
+
+			for _, Label in next, Library.KeybindContainer:GetChildren() do
+				if Label:IsA('TextLabel') and Label.Visible then
+					YSize = YSize + 18;
+					if (Label.TextBounds.X > XSize) then
+						XSize = Label.TextBounds.X
+					end
+				end;
+			end;
+
+            Library.KeybindFrame.Size = UDim2.new(0, math.max(XSize + 10, 210), 0, YSize + 23)
+		end;
+
+		function KeyPicker:GetState()
+			if KeyPicker.Mode == 'Always' then
+				return true;
+			elseif KeyPicker.Mode == 'Hold' then
+				if KeyPicker.Value == 'None' then
+					return false;
+				end
+
+				local Key = KeyPicker.Value;
+
+				if Key == 'MB1' or Key == 'MB2' then
+					return Key == 'MB1' and InputService:IsMouseButtonPressed(Enum.UserInputType.MouseButton1)
+						or Key == 'MB2' and InputService:IsMouseButtonPressed(Enum.UserInputType.MouseButton2);
+				else
+					return InputService:IsKeyDown(Enum.KeyCode[KeyPicker.Value]);
+				end;
+			else
+				return KeyPicker.Toggled;
+			end;
+		end;
+
+		function KeyPicker:SetValue(Data)
+			local Key, Mode = Data[1], Data[2]
+			
+			for _, Option in pairs(Options) do
+				if Option.Type == 'KeyPicker' and Option ~= KeyPicker and Option.Value == Key then
+					DisplayLabel.Text = "None"
+					KeyPicker.Value = "None" 
+					return
+				end
+			end
+		
+			DisplayLabel.Text = Key
+			KeyPicker.Value = Key
+			ModeButtons[Mode]:Select()
+			KeyPicker:Update()
+		end
+		
+
+		function KeyPicker:OnClick(Callback)
+			KeyPicker.Clicked = Callback
+		end
+
+		function KeyPicker:OnChanged(Callback)
+			KeyPicker.Changed = Callback
+			Callback(KeyPicker.Value)
+		end
+
+		if ParentObj.Addons then
+			table.insert(ParentObj.Addons, KeyPicker)
+		end
+
+		function KeyPicker:DoClick()
+			if ParentObj.Type == 'Toggle' and KeyPicker.SyncToggleState then
+				ParentObj:SetValue(not ParentObj.Value)
+			end
+
+			Library:SafeCallback(KeyPicker.Callback, KeyPicker.Toggled)
+			Library:SafeCallback(KeyPicker.Clicked, KeyPicker.Toggled)
+		end
+
+		local Picking = false;
+
+		PickOuter.InputBegan:Connect(function(Input)
+			pcall(function()
+				if Input.UserInputType == Enum.UserInputType.MouseButton1 and not Library:MouseIsOverOpenedFrame() then
+					Picking = true;
+					DisplayLabel.Text = '';
+		
+					local Break;
+					local Text = '';
+		
+					task.spawn(function()
+						pcall(function()
+							while (not Break) do
+								if Text == '...' then
+									Text = '';
+								end;
+		
+								Text = Text .. '.';
+								DisplayLabel.Text = Text;
+		
+								wait(0.4);
+							end;
+						end)
+					end);
+		
+					wait(0.2);
+		
+					local Event;
+					Event = InputService.InputBegan:Connect(function(Input)
+						local Key;
+		
+						if Input.UserInputType == Enum.UserInputType.Keyboard then
+							Key = Input.KeyCode.Name;
+						elseif Input.UserInputType == Enum.UserInputType.MouseButton1 then
+							Key = 'MB1';
+						elseif Input.UserInputType == Enum.UserInputType.MouseButton2 then
+							Key = 'MB2';
+						end;
+		
+						for _, Option in pairs(Options) do
+							if Option.Type == 'KeyPicker' and Option ~= KeyPicker and Option.Value == Key then
+								DisplayLabel.Text = "None"
+								KeyPicker.Value = "None" 
+								Picking = false;
+								Break = true;
+								Event:Disconnect();
+								return
+							end
+						end
+		
+						Break = true;
+						Picking = false;
+		
+						DisplayLabel.Text = Key;
+						KeyPicker.Value = Key;
+		
+						Library:SafeCallback(KeyPicker.ChangedCallback, Input.KeyCode or Input.UserInputType)
+						Library:SafeCallback(KeyPicker.Changed, Input.KeyCode or Input.UserInputType)
+		
+						Library:AttemptSave();
+		
+						Event:Disconnect();
+					end);
+				elseif Input.UserInputType == Enum.UserInputType.MouseButton2 and not Library:MouseIsOverOpenedFrame() then
+					ModeSelectOuter.Visible = true;
+				end;
+			end);
+		end);
+		
+		
+		Library:GiveSignal(InputService.InputBegan:Connect(function(Input,t)
+			pcall(function()
+				if (not Picking) then
+					if KeyPicker.Mode == 'Toggle' then
+						local Key = KeyPicker.Value;
+
+						if Key == 'MB1' or Key == 'MB2' then
+							if Key == 'MB1' and Input.UserInputType == Enum.UserInputType.MouseButton1
+								or Key == 'MB2' and Input.UserInputType == Enum.UserInputType.MouseButton2 then
+								KeyPicker.Toggled = not KeyPicker.Toggled
+								KeyPicker:DoClick()
+							end;
+						elseif Input.UserInputType == Enum.UserInputType.Keyboard and not t then
+							if Input.KeyCode.Name == Key then
+								KeyPicker.Toggled = not KeyPicker.Toggled;
+								KeyPicker:DoClick()
+							end;
+						end;
+					end;
+
+					KeyPicker:Update();
+				end;
+
+				if Input.UserInputType == Enum.UserInputType.MouseButton1 then
+					local AbsPos, AbsSize = ModeSelectOuter.AbsolutePosition, ModeSelectOuter.AbsoluteSize;
+
+					if Mouse.X < AbsPos.X or Mouse.X > AbsPos.X + AbsSize.X
+						or Mouse.Y < (AbsPos.Y - 20 - 1) or Mouse.Y > AbsPos.Y + AbsSize.Y then
+
+						ModeSelectOuter.Visible = false;
+					end;
+				end;
+			end)
+		end))
+
+		Library:GiveSignal(InputService.InputEnded:Connect(function(Input)
+			if (not Picking) then
+				KeyPicker:Update();
+			end;
+		end))
+
+		KeyPicker:Update();
+
+		Options[Idx] = KeyPicker;
+
+		return self;
+	end;
+
+	BaseAddons.__index = Funcs;
+	BaseAddons.__namecall = function(Table, Key, ...)
+		return Funcs[Key](...);
+	end;
+end;
+
+local BaseGroupbox = {};
+
+do
+	local Funcs = {};
+
+	function Funcs:AddBlank(Size)
+		local Groupbox = self;
+		local Container = Groupbox.Container;
+
+		Library:Create('Frame', {
+			BackgroundTransparency = 1;
+			Size = UDim2.new(1, 0, 0, Size);
+			ZIndex = 1;
+			Parent = Container;
+		});
+	end;
+
+	function Funcs:AddLabel(Text, DoesWrap)
+		local Label = {};
+
+		local Groupbox = self;
+		local Container = Groupbox.Container;
+
+        local TextLabel = Library:CreateLabel({
+            Size = UDim2.new(1, -4, 0, 15);
+            TextSize = 14;
+            Text = Text;
+            TextWrapped = DoesWrap or false,
+            RichText = true,
+            TextXAlignment = Enum.TextXAlignment.Left;
+            ZIndex = 5;
+            Parent = Container;
+        });
+		if DoesWrap then
+			local Y = select(2, Library:GetTextBounds(Text, Library.Font, 14, Vector2.new(TextLabel.AbsoluteSize.X, math.huge)))
+			TextLabel.Size = UDim2.new(1, -4, 0, Y)
+		else
+			Library:Create('UIListLayout', {
+				Padding = UDim.new(0, 4);
+				FillDirection = Enum.FillDirection.Horizontal;
+				HorizontalAlignment = Enum.HorizontalAlignment.Right;
+				SortOrder = Enum.SortOrder.LayoutOrder;
+				Parent = TextLabel;
+			});
+		end
+
+		Label.TextLabel = TextLabel;
+		Label.Container = Container;
+
+		function Label:SetText(Text)
+			TextLabel.Text = Text
+
+			if DoesWrap then
+				local Y = select(2, Library:GetTextBounds(Text, Library.Font, 14, Vector2.new(TextLabel.AbsoluteSize.X, math.huge)))
+				TextLabel.Size = UDim2.new(1, -4, 0, Y)
+			end
+
+			Groupbox:Resize();
+		end
+
+		if (not DoesWrap) then
+			setmetatable(Label, BaseAddons);
+		end
+
+		Groupbox:AddBlank(5);
+		Groupbox:Resize();
+
+		return Label;
+	end;
+
+	function Funcs:AddButton(...)
+		-- TODO: Eventually redo this
+		local Button = {};
+		local function ProcessButtonParams(Class, Obj, ...)
+			local Props = select(1, ...)
+			if type(Props) == 'table' then
+				Obj.Text = Props.Text
+				Obj.Func = Props.Func
+				Obj.DoubleClick = Props.DoubleClick
+				Obj.Tooltip = Props.Tooltip
+			else
+				Obj.Text = select(1, ...)
+				Obj.Func = select(2, ...)
+			end
+
+			assert(type(Obj.Func) == 'function', 'AddButton: `Func` callback is missing.');
+		end
+
+		ProcessButtonParams('Button', Button, ...)
+
+		local Groupbox = self;
+		local Container = Groupbox.Container;
+
+		local function CreateBaseButton(Button)
+			local Outer = Library:Create('Frame', {
+				BackgroundColor3 = Color3.new(0, 0, 0);
+				BorderColor3 = Color3.new(0, 0, 0);
+				Size = UDim2.new(1, -4, 0, 20);
+				ZIndex = 5;
+			});
+
+			local Inner = Library:Create('Frame', {
+				BackgroundColor3 = Library.MainColor;
+				BorderColor3 = Library.OutlineColor;
+				BorderMode = Enum.BorderMode.Inset;
+				Size = UDim2.new(1, 0, 1, 0);
+				ZIndex = 6;
+				Parent = Outer;
+			});
+
+			local Label = Library:CreateLabel({
+				Size = UDim2.new(1, 0, 1, 0);
+				TextSize = 14;
+				Text = Button.Text;
+				ZIndex = 6;
+				Parent = Inner;
+			});
+
+			Library:Create('UIGradient', {
+				Color = ColorSequence.new({
+					ColorSequenceKeypoint.new(0, Color3.new(1, 1, 1)),
+					ColorSequenceKeypoint.new(1, Color3.fromRGB(212, 212, 212))
+				});
+				Rotation = 90;
+				Parent = Inner;
+			});
+
+			Library:AddToRegistry(Outer, {
+				BorderColor3 = 'Black';
+			});
+
+			Library:AddToRegistry(Inner, {
+				BackgroundColor3 = 'MainColor';
+				BorderColor3 = 'OutlineColor';
+			});
+
+			Library:OnHighlight(Outer, Outer,
+				{ BorderColor3 = 'AccentColor' },
+				{ BorderColor3 = 'Black' }
+			);
+
+			return Outer, Inner, Label
+		end
+
+		local function InitEvents(Button)
+			local function WaitForEvent(event, timeout, validator)
+				local bindable = Instance.new('BindableEvent')
+				local connection = event:Once(function(...)
+
+					if type(validator) == 'function' and validator(...) then
+						bindable:Fire(true)
+					else
+						bindable:Fire(false)
+					end
+				end)
+				task.delay(timeout, function()
+					connection:disconnect()
+					bindable:Fire(false)
+				end)
+				return bindable.Event:Wait()
+			end
+
+			local function ValidateClick(Input)
+				if Library:MouseIsOverOpenedFrame() then
+					return false
+				end
+
+				if Input.UserInputType ~= Enum.UserInputType.MouseButton1 then
+					return false
+				end
+
+				return true
+			end
+
+			Button.Outer.InputBegan:Connect(function(Input)
+				if not ValidateClick(Input) then return end
+				if Button.Locked then return end
+
+				if Button.DoubleClick then
+					Library:RemoveFromRegistry(Button.Label)
+					Library:AddToRegistry(Button.Label, { TextColor3 = 'AccentColor' })
+
+					Button.Label.TextColor3 = Library.AccentColor
+					Button.Label.Text = 'Are you sure?'
+					Button.Locked = true
+
+					local clicked = WaitForEvent(Button.Outer.InputBegan, 0.5, ValidateClick)
+
+					Library:RemoveFromRegistry(Button.Label)
+					Library:AddToRegistry(Button.Label, { TextColor3 = 'FontColor' })
+
+					Button.Label.TextColor3 = Library.FontColor
+					Button.Label.Text = Button.Text
+					task.defer(rawset, Button, 'Locked', false)
+
+					if clicked then
+						Library:SafeCallback(Button.Func)
+					end
+
+					return
+				end
+
+				Library:SafeCallback(Button.Func);
+			end)
+		end
+
+		Button.Outer, Button.Inner, Button.Label = CreateBaseButton(Button)
+		Button.Outer.Parent = Container
+
+		InitEvents(Button)
+
+		function Button:AddTooltip(tooltip)
+			if type(tooltip) == 'string' then
+				Library:AddToolTip(tooltip, self.Outer)
+			end
+			return self
+		end
+
+
+		function Button:AddButton(...)
+			local SubButton = {}
+
+			ProcessButtonParams('SubButton', SubButton, ...)
+
+			self.Outer.Size = UDim2.new(0.5, -2, 0, 20)
+
+			SubButton.Outer, SubButton.Inner, SubButton.Label = CreateBaseButton(SubButton)
+
+			SubButton.Outer.Position = UDim2.new(1, 3, 0, 0)
+			SubButton.Outer.Size = UDim2.fromOffset(self.Outer.AbsoluteSize.X - 2, self.Outer.AbsoluteSize.Y)
+			SubButton.Outer.Parent = self.Outer
+
+			function SubButton:AddTooltip(tooltip)
+				if type(tooltip) == 'string' then
+					Library:AddToolTip(tooltip, self.Outer)
+				end
+				return SubButton
+			end
+
+			if type(SubButton.Tooltip) == 'string' then
+				SubButton:AddTooltip(SubButton.Tooltip)
+			end
+
+			InitEvents(SubButton)
+			return SubButton
+		end
+
+		if type(Button.Tooltip) == 'string' then
+			Button:AddTooltip(Button.Tooltip)
+		end
+
+		Groupbox:AddBlank(5);
+		Groupbox:Resize();
+
+		return Button;
+	end;
+
+	function Funcs:AddDivider()
+		local Groupbox = self;
+		local Container = self.Container
+
+		local Divider = {
+			Type = 'Divider',
+		}
+
+		Groupbox:AddBlank(2);
+		local DividerOuter = Library:Create('Frame', {
+			BackgroundColor3 = Color3.new(0, 0, 0);
+			BorderColor3 = Color3.new(0, 0, 0);
+			Size = UDim2.new(1, -4, 0, 5);
+			ZIndex = 5;
+			Parent = Container;
+		});
+
+		local DividerInner = Library:Create('Frame', {
+			BackgroundColor3 = Library.MainColor;
+			BorderColor3 = Library.OutlineColor;
+			BorderMode = Enum.BorderMode.Inset;
+			Size = UDim2.new(1, 0, 1, 0);
+			ZIndex = 6;
+			Parent = DividerOuter;
+		});
+
+		Library:AddToRegistry(DividerOuter, {
+			BorderColor3 = 'Black';
+		});
+
+		Library:AddToRegistry(DividerInner, {
+			BackgroundColor3 = 'MainColor';
+			BorderColor3 = 'OutlineColor';
+		});
+
+		Groupbox:AddBlank(9);
+		Groupbox:Resize();
+	end
+
+	function Funcs:AddInput(Idx, Info)
+		assert(Info.Text, 'AddInput: Missing `Text` string.')
+
+		local Textbox = {
+			Value = Info.Default or '';
+			Numeric = Info.Numeric or false;
+			Finished = Info.Finished or false;
+			Type = 'Input';
+			Callback = Info.Callback or function(Value) end;
+		};
+
+		local Groupbox = self;
+		local Container = Groupbox.Container;
+
+		local InputLabel = Library:CreateLabel({
+			Size = UDim2.new(1, 0, 0, 15);
+			TextSize = 14;
+			Text = Info.Text;
+			TextXAlignment = Enum.TextXAlignment.Left;
+			ZIndex = 5;
+			Parent = Container;
+		});
+
+		Groupbox:AddBlank(1);
+
+		local TextBoxOuter = Library:Create('Frame', {
+			BackgroundColor3 = Color3.new(0, 0, 0);
+			BorderColor3 = Color3.new(0, 0, 0);
+			Size = UDim2.new(1, -4, 0, 20);
+			ZIndex = 5;
+			Parent = Container;
+		});
+
+		local TextBoxInner = Library:Create('Frame', {
+			BackgroundColor3 = Library.MainColor;
+			BorderColor3 = Library.OutlineColor;
+			BorderMode = Enum.BorderMode.Inset;
+			Size = UDim2.new(1, 0, 1, 0);
+			ZIndex = 6;
+			Parent = TextBoxOuter;
+		});
+
+		Library:AddToRegistry(TextBoxInner, {
+			BackgroundColor3 = 'MainColor';
+			BorderColor3 = 'OutlineColor';
+		});
+
+		Library:OnHighlight(TextBoxOuter, TextBoxOuter,
+			{ BorderColor3 = 'AccentColor' },
+			{ BorderColor3 = 'Black' }
+		);
+
+		if type(Info.Tooltip) == 'string' then
+			Library:AddToolTip(Info.Tooltip, TextBoxOuter)
+		end
+
+		Library:Create('UIGradient', {
+			Color = ColorSequence.new({
+				ColorSequenceKeypoint.new(0, Color3.new(1, 1, 1)),
+				ColorSequenceKeypoint.new(1, Color3.fromRGB(212, 212, 212))
+			});
+			Rotation = 90;
+			Parent = TextBoxInner;
+		});
+
+		local Container = Library:Create('Frame', {
+			BackgroundTransparency = 1;
+			ClipsDescendants = true;
+
+			Position = UDim2.new(0, 5, 0, 0);
+			Size = UDim2.new(1, -5, 1, 0);
+
+			ZIndex = 7;
+			Parent = TextBoxInner;
+		})
+
+		local Box = Library:Create('TextBox', {
+			BackgroundTransparency = 1;
+
+			Position = UDim2.fromOffset(0, 0),
+			Size = UDim2.fromScale(5, 1),
+
+			Font = Library.Font;
+			PlaceholderColor3 = Color3.fromRGB(190, 190, 190);
+			PlaceholderText = Info.Placeholder or '';
+
+			Text = Info.Default or '';
+			TextColor3 = Library.FontColor;
+			TextSize = 14;
+			TextStrokeTransparency = 0;
+			TextXAlignment = Enum.TextXAlignment.Left;
+
+			ZIndex = 7;
+			Parent = Container;
+		});
+
+		Library:ApplyTextStroke(Box);
+
+		function Textbox:SetValue(Text)
+			if Info.MaxLength and #Text > Info.MaxLength then
+				Text = Text:sub(1, Info.MaxLength);
+			end;
+
+			if Textbox.Numeric then
+				if (not tonumber(Text)) and Text:len() > 0 then
+					Text = Textbox.Value
+				end
+			end
+
+			Textbox.Value = Text;
+			Box.Text = Text;
+
+			Library:SafeCallback(Textbox.Callback, Textbox.Value);
+			Library:SafeCallback(Textbox.Changed, Textbox.Value);
+		end;
+
+		if Textbox.Finished then
+			Box.FocusLost:Connect(function(enter)
+				if not enter then return end
+
+				Textbox:SetValue(Box.Text);
+				Library:AttemptSave();
+			end)
+		else
+			Box:GetPropertyChangedSignal('Text'):Connect(function()
+				Textbox:SetValue(Box.Text);
+				Library:AttemptSave();
+			end);
+		end
+
+		-- https://devforum.roblox.com/t/how-to-make-textboxes-follow-current-cursor-position/1368429/6
+		-- thank you nicemike40 :)
+
+		local function Update()
+			local PADDING = 2
+			local reveal = Container.AbsoluteSize.X
+
+			if not Box:IsFocused() or Box.TextBounds.X <= reveal - 2 * PADDING then
+				-- we aren't focused, or we fit so be normal
+				Box.Position = UDim2.new(0, PADDING, 0, 0)
+			else
+				-- we are focused and don't fit, so adjust position
+				local cursor = Box.CursorPosition
+				if cursor ~= -1 then
+					-- calculate pixel width of text from start to cursor
+					local subtext = string.sub(Box.Text, 1, cursor-1)
+					local width = TextService:GetTextSize(subtext, Box.TextSize, Box.Font, Vector2.new(math.huge, math.huge)).X
+
+					-- check if we're inside the box with the cursor
+					local currentCursorPos = Box.Position.X.Offset + width
+
+					-- adjust if necessary
+					if currentCursorPos < PADDING then
+						Box.Position = UDim2.fromOffset(PADDING-width, 0)
+					elseif currentCursorPos > reveal - PADDING - 1 then
+						Box.Position = UDim2.fromOffset(reveal-width-PADDING-1, 0)
+					end
+				end
+			end
+		end
+
+		task.spawn(function() pcall(Update) end)
+
+		Box:GetPropertyChangedSignal('Text'):Connect(Update)
+		Box:GetPropertyChangedSignal('CursorPosition'):Connect(Update)
+		Box.FocusLost:Connect(Update)
+		Box.Focused:Connect(Update)
+
+		Library:AddToRegistry(Box, {
+			TextColor3 = 'FontColor';
+		});
+
+		function Textbox:OnChanged(Func)
+			Textbox.Changed = Func;
+			Func(Textbox.Value);
+		end;
+
+		Groupbox:AddBlank(5);
+		Groupbox:Resize();
+
+		Options[Idx] = Textbox;
+
+		return Textbox;
+	end;
+
+	function Funcs:AddToggle(Idx, Info)
+		assert(Info.Text, 'AddInput: Missing `Text` string.')
+
+		local Toggle = {
+			Value = Info.Default or false;
+			Type = 'Toggle';
+
+			Callback = Info.Callback or function(Value) end;
+			Addons = {},
+			Risky = Info.Risky,
+		};
+
+		local Groupbox = self;
+		local Container = Groupbox.Container;
+
+		local ToggleOuter = Library:Create('Frame', {
+			BackgroundColor3 = Color3.new(0, 0, 0);
+			BorderColor3 = Color3.new(0, 0, 0);
+			Size = UDim2.new(0, 13, 0, 13);
+			ZIndex = 5;
+			Parent = Container;
+		});
+
+		Library:AddToRegistry(ToggleOuter, {
+			BorderColor3 = 'Black';
+		});
+
+		local ToggleInner = Library:Create('Frame', {
+			BackgroundColor3 = Library.MainColor;
+			BorderColor3 = Library.OutlineColor;
+			BorderMode = Enum.BorderMode.Inset;
+			Size = UDim2.new(1, 0, 1, 0);
+			ZIndex = 6;
+			Parent = ToggleOuter;
+		});
+
+		Library:AddToRegistry(ToggleInner, {
+			BackgroundColor3 = 'MainColor';
+			BorderColor3 = 'OutlineColor';
+		});
+
+		local ToggleLabel = Library:CreateLabel({
+			Size = UDim2.new(0, 216, 1, 0);
+			Position = UDim2.new(1, 6, 0, 0);
+			TextSize = 14;
+			Text = Info.Text;
+			TextXAlignment = Enum.TextXAlignment.Left;
+			ZIndex = 6;
+			Parent = ToggleInner;
+		});
+
+		Library:Create('UIListLayout', {
+			Padding = UDim.new(0, 4);
+			FillDirection = Enum.FillDirection.Horizontal;
+			HorizontalAlignment = Enum.HorizontalAlignment.Right;
+			SortOrder = Enum.SortOrder.LayoutOrder;
+			Parent = ToggleLabel;
+		});
+
+		local ToggleRegion = Library:Create('Frame', {
+			BackgroundTransparency = 1;
+			Size = UDim2.new(0, 170, 1, 0);
+			ZIndex = 8;
+			Parent = ToggleOuter;
+		});
+
+		Library:OnHighlight(ToggleRegion, ToggleOuter,
+			{ BorderColor3 = 'AccentColor' },
+			{ BorderColor3 = 'Black' }
+		);
+
+		function Toggle:UpdateColors()
+			Toggle:Display();
+		end;
+
+		if type(Info.Tooltip) == 'string' then
+			Library:AddToolTip(Info.Tooltip, ToggleRegion)
+		end
+
+		function Toggle:Display()
+			ToggleInner.BackgroundColor3 = Toggle.Value and Library.AccentColor or Library.MainColor;
+			ToggleInner.BorderColor3 = Toggle.Value and Library.AccentColorDark or Library.OutlineColor;
+
+			Library.RegistryMap[ToggleInner].Properties.BackgroundColor3 = Toggle.Value and 'AccentColor' or 'MainColor';
+			Library.RegistryMap[ToggleInner].Properties.BorderColor3 = Toggle.Value and 'AccentColorDark' or 'OutlineColor';
+		end;
+
+		function Toggle:OnChanged(Func)
+			Toggle.Changed = Func;
+			pcall(Func,Toggle.Value);
+		end;
+
+		function Toggle:SetValue(Bool)
+			Bool = (not not Bool);
+
+			Toggle.Value = Bool;
+			Toggle:Display();
+
+			for _, Addon in next, Toggle.Addons do
+				if Addon.Type == 'KeyPicker' and Addon.SyncToggleState then
+					Addon.Toggled = Bool
+					Addon:Update()
+				end
+			end
+			pcall(function()
+				Library:SafeCallback(Toggle.Callback, Toggle.Value);
+				Library:SafeCallback(Toggle.Changed, Toggle.Value);
+			end)
+			Library:UpdateDependencyBoxes();
+		end;
+
+		ToggleRegion.InputBegan:Connect(function(Input)
+			if Input.UserInputType == Enum.UserInputType.MouseButton1 and not Library:MouseIsOverOpenedFrame() then
+				Toggle:SetValue(not Toggle.Value) -- Why was it not like this from the start?
+				Library:AttemptSave();
+			end;
+		end);
+
+		if Toggle.Risky then
+			Library:RemoveFromRegistry(ToggleLabel)
+			ToggleLabel.TextColor3 = Library.RiskColor
+			Library:AddToRegistry(ToggleLabel, { TextColor3 = 'RiskColor' })
+		end
+
+		Toggle:Display();
+		Groupbox:AddBlank(Info.BlankSize or 5 + 2);
+		Groupbox:Resize();
+
+		Toggle.TextLabel = ToggleLabel;
+		Toggle.Container = Container;
+		setmetatable(Toggle, BaseAddons);
+
+		Toggles[Idx] = Toggle;
+
+		Library:UpdateDependencyBoxes();
+
+		return Toggle;
+	end;
+
+function Funcs:AddSlider(Idx, Info)
+    assert(Info.Default, 'AddSlider: Missing default value.')
+    assert(Info.Text, 'AddSlider: Missing slider text.')
+    assert(Info.Min, 'AddSlider: Missing minimum value.')
+    assert(Info.Max, 'AddSlider: Missing maximum value.')
+    assert(Info.Rounding, 'AddSlider: Missing rounding value.')
+
+    local Slider = {
+        Value = Info.Default,
+        Min = Info.Min,
+        Max = Info.Max,
+        Rounding = Info.Rounding,
+        MaxSize = 232,
+        Type = 'Slider',
+        Callback = Info.Callback or function(Value) end,
+    }
+
+    local Groupbox = self
+    local Container = Groupbox.Container
+
+    local SliderOuter = Library:Create('Frame', {
+        BackgroundColor3 = Color3.new(0, 0, 0),
+        BorderColor3 = Color3.new(0, 0, 0),
+        Size = UDim2.new(1, -4, 0, 10), -- Adjusted height to be smaller
+        ZIndex = 5,
+        Parent = Container,
+    })
+
+    Library:AddToRegistry(SliderOuter, {
+        BorderColor3 = 'Black',
+    })
+
+    local SliderInner = Library:Create('Frame', {
+        BackgroundColor3 = Library.MainColor,
+        BorderColor3 = Library.OutlineColor,
+        BorderMode = Enum.BorderMode.Inset,
+        Size = UDim2.new(1, 0, 1, 0),
+        ZIndex = 6,
+        Parent = SliderOuter,
+    })
+
+    Library:AddToRegistry(SliderInner, {
+        BackgroundColor3 = 'MainColor',
+        BorderColor3 = 'OutlineColor',
+    })
+
+    local Fill = Library:Create('Frame', {
+        BackgroundColor3 = Library.AccentColor,
+        BorderColor3 = Library.AccentColorDark,
+        Size = UDim2.new(0, 0, 1, 0),
+        ZIndex = 7,
+        Parent = SliderInner,
+    })
+
+    Library:AddToRegistry(Fill, {
+        BackgroundColor3 = 'AccentColor',
+        BorderColor3 = 'AccentColorDark',
+    })
+
+    local HideBorderRight = Library:Create('Frame', {
+        BackgroundColor3 = Library.AccentColor,
+        BorderSizePixel = 0,
+        Position = UDim2.new(1, 0, 0, 0),
+        Size = UDim2.new(0, 1, 1, 0),
+        ZIndex = 8,
+        Parent = Fill,
+    })
+
+    Library:AddToRegistry(HideBorderRight, {
+        BackgroundColor3 = 'AccentColor',
+    })
+
+    local DisplayLabel = Library:CreateLabel({
+        Size = UDim2.new(1, 0, 1, 0),
+        TextSize = 14,
+        Text = '', -- Initial text set to empty
+        TextXAlignment = Enum.TextXAlignment.Center, -- Center the text
+        ZIndex = 9,
+        Parent = SliderInner,
+    })
+
+    Library:OnHighlight(SliderOuter, SliderOuter, {
+        BorderColor3 = 'AccentColor',
+    }, {
+        BorderColor3 = 'Black',
+    })
+
+    if type(Info.Tooltip) == 'string' then
+        Library:AddToolTip(Info.Tooltip, SliderOuter)
+    end
+
+    function Slider:UpdateColors()
+        Fill.BackgroundColor3 = Library.AccentColor
+        Fill.BorderColor3 = Library.AccentColorDark
+    end
+
+    function Slider:Display()
+        local Suffix = Info.Suffix or ''
+        DisplayLabel.Text = string.format('%s %s/%s', Info.Text, Slider.Value .. Suffix, Slider.Max .. Suffix) -- Display the text correctly
+        local X = math.ceil(Library:MapValue(Slider.Value, Slider.Min, Slider.Max, 0, Slider.MaxSize))
+        Fill.Size = UDim2.new(0, X, 1, 0)
+        HideBorderRight.Visible = not (X == Slider.MaxSize or X == 0)
+    end
+
+    function Slider:OnChanged(Func)
+        Slider.Changed = Func
+        Func(Slider.Value)
+    end
+
+    local function Round(Value)
+        if Slider.Rounding == 0 then
+            return math.floor(Value)
+        end
+
+        return tonumber(string.format('%.' .. Slider.Rounding .. 'f', Value))
+    end
+
+    function Slider:GetValueFromXOffset(X)
+        return Round(Library:MapValue(X, 0, Slider.MaxSize, Slider.Min, Slider.Max))
+    end
+
+    function Slider:SetValue(Str)
+        local Num = tonumber(Str)
+
+        if not Num then
+            return
+        end
+
+        Num = math.clamp(Num, Slider.Min, Slider.Max)
+        Slider.Value = Num
+        Slider:Display()
+        Library:SafeCallback(Slider.Callback, Slider.Value)
+        Library:SafeCallback(Slider.Changed, Slider.Value)
+    end
+
+    SliderInner.InputBegan:Connect(function(Input)
+        if Input.UserInputType == Enum.UserInputType.MouseButton1 and not Library:MouseIsOverOpenedFrame() then
+            local mPos = Mouse.X
+            local gPos = Fill.Size.X.Offset
+            local Diff = mPos - (Fill.AbsolutePosition.X + gPos)
+
+            while InputService:IsMouseButtonPressed(Enum.UserInputType.MouseButton1) do
+                local nMPos = Mouse.X
+                local nX = math.clamp(gPos + (nMPos - mPos) + Diff, 0, Slider.MaxSize)
+                local nValue = Slider:GetValueFromXOffset(nX)
+                local OldValue = Slider.Value
+                Slider.Value = nValue
+                Slider:Display()
+
+                if nValue ~= OldValue then
+                    Library:SafeCallback(Slider.Callback, Slider.Value)
+                    Library:SafeCallback(Slider.Changed, Slider.Value)
+                end
+
+                RenderStepped:Wait()
+            end
+
+            Library:AttemptSave()
+        end
+    end)
+
+    Slider:Display()
+    Groupbox:AddBlank(Info.BlankSize or 6)
+    Groupbox:Resize()
+
+    Options[Idx] = Slider
+
+    return Slider
+end
+
+	function Funcs:AddDropdown(Idx, Info)
+		if Info.SpecialType == 'Player' then
+			Info.Values = GetPlayersString();
+			Info.AllowNull = true;
+		elseif Info.SpecialType == 'Team' then
+			Info.Values = GetTeamsString();
+			Info.AllowNull = true;
+		end;
+
+		assert(Info.Values, 'AddDropdown: Missing dropdown value list.');
+		assert(Info.AllowNull or Info.Default, 'AddDropdown: Missing default value. Pass `AllowNull` as true if this was intentional.')
+
+		if (not Info.Text) then
+			Info.Compact = true;
+		end;
+
+		local Dropdown = {
+			Values = Info.Values;
+			Value = Info.Multi and {};
+			Multi = Info.Multi;
+			Type = 'Dropdown';
+			SpecialType = Info.SpecialType; -- can be either 'Player' or 'Team'
+			Callback = Info.Callback or function(Value) end;
+		};
+
+		local Groupbox = self;
+		local Container = Groupbox.Container;
+
+		local RelativeOffset = 0;
+
+		if not Info.Compact then
+			local DropdownLabel = Library:CreateLabel({
+				Size = UDim2.new(1, 0, 0, 10);
+				TextSize = 14;
+				Text = Info.Text;
+				TextXAlignment = Enum.TextXAlignment.Left;
+				TextYAlignment = Enum.TextYAlignment.Bottom;
+				ZIndex = 5;
+				Parent = Container;
+			});
+
+			Groupbox:AddBlank(3);
+		end
+
+		for _, Element in next, Container:GetChildren() do
+			if not Element:IsA('UIListLayout') then
+				RelativeOffset = RelativeOffset + Element.Size.Y.Offset;
+			end;
+		end;
+
+		local DropdownOuter = Library:Create('Frame', {
+			BackgroundColor3 = Color3.new(0, 0, 0);
+			BorderColor3 = Color3.new(0, 0, 0);
+			Size = UDim2.new(1, -4, 0, 20);
+			ZIndex = 5;
+			Parent = Container;
+		});
+
+		Library:AddToRegistry(DropdownOuter, {
+			BorderColor3 = 'Black';
+		});
+
+		local DropdownInner = Library:Create('Frame', {
+			BackgroundColor3 = Library.MainColor;
+			BorderColor3 = Library.OutlineColor;
+			BorderMode = Enum.BorderMode.Inset;
+			Size = UDim2.new(1, 0, 1, 0);
+			ZIndex = 6;
+			Parent = DropdownOuter;
+		});
+
+		Library:AddToRegistry(DropdownInner, {
+			BackgroundColor3 = 'MainColor';
+			BorderColor3 = 'OutlineColor';
+		});
+
+		Library:Create('UIGradient', {
+			Color = ColorSequence.new({
+				ColorSequenceKeypoint.new(0, Color3.new(1, 1, 1)),
+				ColorSequenceKeypoint.new(1, Color3.fromRGB(212, 212, 212))
+			});
+			Rotation = 90;
+			Parent = DropdownInner;
+		});
+
+		local DropdownArrow = Library:Create('ImageLabel', {
+			AnchorPoint = Vector2.new(0, 0.5);
+			BackgroundTransparency = 1;
+			Position = UDim2.new(1, -16, 0.5, 0);
+			Size = UDim2.new(0, 12, 0, 12);
+			Image = '';
+			ZIndex = 8;
+			Parent = DropdownInner;
+		});
+
+		local ItemList = Library:CreateLabel({
+			Position = UDim2.new(0, 5, 0, 0);
+			Size = UDim2.new(1, -5, 1, 0);
+			TextSize = 14;
+			Text = '--';
+			TextXAlignment = Enum.TextXAlignment.Left;
+			TextWrapped = true;
+			ZIndex = 7;
+			Parent = DropdownInner;
+		});
+
+		Library:OnHighlight(DropdownOuter, DropdownOuter,
+			{ BorderColor3 = 'AccentColor' },
+			{ BorderColor3 = 'Black' }
+		);
+
+		if type(Info.Tooltip) == 'string' then
+			Library:AddToolTip(Info.Tooltip, DropdownOuter)
+		end
+
+		local MAX_DROPDOWN_ITEMS = 8;
+
+		local ListOuter = Library:Create('Frame', {
+			BackgroundColor3 = Color3.new(0, 0, 0);
+			BorderColor3 = Color3.new(0, 0, 0);
+			ZIndex = 20;
+			Visible = false;
+			Parent = ScreenGui;
+		});
+
+		local function RecalculateListPosition()
+			ListOuter.Position = UDim2.fromOffset(DropdownOuter.AbsolutePosition.X, DropdownOuter.AbsolutePosition.Y + DropdownOuter.Size.Y.Offset + 1);
+		end;
+
+		local function RecalculateListSize(YSize)
+			ListOuter.Size = UDim2.fromOffset(DropdownOuter.AbsoluteSize.X, YSize or (MAX_DROPDOWN_ITEMS * 20 + 2))
+		end;
+
+		RecalculateListPosition();
+		RecalculateListSize();
+
+		DropdownOuter:GetPropertyChangedSignal('AbsolutePosition'):Connect(RecalculateListPosition);
+
+		local ListInner = Library:Create('Frame', {
+			BackgroundColor3 = Library.MainColor;
+			BorderColor3 = Library.OutlineColor;
+			BorderMode = Enum.BorderMode.Inset;
+			BorderSizePixel = 0;
+			Size = UDim2.new(1, 0, 1, 0);
+			ZIndex = 21;
+			Parent = ListOuter;
+		});
+
+		Library:AddToRegistry(ListInner, {
+			BackgroundColor3 = 'MainColor';
+			BorderColor3 = 'OutlineColor';
+		});
+
+		local Scrolling = Library:Create('ScrollingFrame', {
+			BackgroundTransparency = 1;
+			BorderSizePixel = 0;
+			CanvasSize = UDim2.new(0, 0, 0, 0);
+			Size = UDim2.new(1, 0, 1, 0);
+			ZIndex = 21;
+			Parent = ListInner;
+
+			TopImage = 'rbxasset://textures/ui/Scroll/scroll-middle.png',
+			BottomImage = 'rbxasset://textures/ui/Scroll/scroll-middle.png',
+
+			ScrollBarThickness = 3,
+			ScrollBarImageColor3 = Library.AccentColor,
+		});
+
+		Library:AddToRegistry(Scrolling, {
+			ScrollBarImageColor3 = 'AccentColor'
+		})
+
+		Library:Create('UIListLayout', {
+			Padding = UDim.new(0, 0);
+			FillDirection = Enum.FillDirection.Vertical;
+			SortOrder = Enum.SortOrder.LayoutOrder;
+			Parent = Scrolling;
+		});
+
+		function Dropdown:Display()
+			local Values = Dropdown.Values;
+			local Str = '';
+
+			if Info.Multi then
+				for Idx, Value in next, Values do
+					if Dropdown.Value[Value] then
+						Str = Str .. Value .. ', ';
+					end;
+				end;
+
+				Str = Str:sub(1, #Str - 2);
+			else
+				Str = Dropdown.Value or '';
+			end;
+
+			ItemList.Text = (Str == '' and '--' or Str);
+		end;
+
+		function Dropdown:GetActiveValues()
+			if Info.Multi then
+				local T = {};
+
+				for Value, Bool in next, Dropdown.Value do
+					table.insert(T, Value);
+				end;
+
+				return T;
+			else
+				return Dropdown.Value and 1 or 0;
+			end;
+		end;
+
+		function Dropdown:BuildDropdownList()
+			local Values = Dropdown.Values;
+			local Buttons = {};
+
+			for _, Element in next, Scrolling:GetChildren() do
+				if not Element:IsA('UIListLayout') then
+					Element:Destroy();
+				end;
+			end;
+
+			local Count = 0;
+
+			for Idx, Value in next, Values do
+				local Table = {};
+
+				Count = Count + 1;
+
+				local Button = Library:Create('Frame', {
+					BackgroundColor3 = Library.MainColor;
+					BorderColor3 = Library.OutlineColor;
+					BorderMode = Enum.BorderMode.Middle;
+					Size = UDim2.new(1, -1, 0, 20);
+					ZIndex = 23;
+					Active = true,
+					Parent = Scrolling;
+				});
+
+				Library:AddToRegistry(Button, {
+					BackgroundColor3 = 'MainColor';
+					BorderColor3 = 'OutlineColor';
+				});
+
+				local ButtonLabel = Library:CreateLabel({
+					Active = false;
+					Size = UDim2.new(1, -6, 1, 0);
+					Position = UDim2.new(0, 6, 0, 0);
+					TextSize = 14;
+					Text = Value;
+					TextXAlignment = Enum.TextXAlignment.Left;
+					ZIndex = 25;
+					Parent = Button;
+				});
+
+				Library:OnHighlight(Button, Button,
+					{ BorderColor3 = 'AccentColor', ZIndex = 24 },
+					{ BorderColor3 = 'OutlineColor', ZIndex = 23 }
+				);
+
+				local Selected;
+
+				if Info.Multi then
+					Selected = Dropdown.Value[Value];
+				else
+					Selected = Dropdown.Value == Value;
+				end;
+
+				function Table:UpdateButton()
+					if Info.Multi then
+						Selected = Dropdown.Value[Value];
+					else
+						Selected = Dropdown.Value == Value;
+					end;
+
+					ButtonLabel.TextColor3 = Selected and Library.AccentColor or Library.FontColor;
+					Library.RegistryMap[ButtonLabel].Properties.TextColor3 = Selected and 'AccentColor' or 'FontColor';
+				end;
+
+				ButtonLabel.InputBegan:Connect(function(Input)
+					if Input.UserInputType == Enum.UserInputType.MouseButton1 then
+						local Try = not Selected;
+
+						if Dropdown:GetActiveValues() == 1 and (not Try) and (not Info.AllowNull) then
+						else
+							if Info.Multi then
+								Selected = Try;
+
+								if Selected then
+									Dropdown.Value[Value] = true;
+								else
+									Dropdown.Value[Value] = nil;
+								end;
+							else
+								Selected = Try;
+
+								if Selected then
+									Dropdown.Value = Value;
+								else
+									Dropdown.Value = nil;
+								end;
+
+								for _, OtherButton in next, Buttons do
+									OtherButton:UpdateButton();
+								end;
+							end;
+
+							Table:UpdateButton();
+							Dropdown:Display();
+
+							Library:SafeCallback(Dropdown.Callback, Dropdown.Value);
+							Library:SafeCallback(Dropdown.Changed, Dropdown.Value);
+
+							Library:AttemptSave();
+						end;
+					end;
+				end);
+
+				Table:UpdateButton();
+				Dropdown:Display();
+
+				Buttons[Button] = Table;
+			end;
+
+			Scrolling.CanvasSize = UDim2.fromOffset(0, (Count * 20) + 1);
+
+			local Y = math.clamp(Count * 20, 0, MAX_DROPDOWN_ITEMS * 20) + 1;
+			RecalculateListSize(Y);
+		end;
+
+		function Dropdown:SetValues(NewValues)
+			if NewValues then
+				Dropdown.Values = NewValues;
+			end;
+
+			Dropdown:BuildDropdownList();
+		end;
+
+		function Dropdown:OpenDropdown()
+			ListOuter.Visible = true;
+			Library.OpenedFrames[ListOuter] = true;
+			DropdownArrow.Rotation = 180;
+		end;
+
+		function Dropdown:CloseDropdown()
+			ListOuter.Visible = false;
+			Library.OpenedFrames[ListOuter] = nil;
+			DropdownArrow.Rotation = 0;
+		end;
+
+		function Dropdown:OnChanged(Func)
+			Dropdown.Changed = Func;
+			Func(Dropdown.Value);
+		end;
+
+		function Dropdown:SetValue(Val)
+			if Dropdown.Multi then
+				local nTable = {};
+
+				for Value, Bool in next, Val do
+					if table.find(Dropdown.Values, Value) then
+						nTable[Value] = true
+					end;
+				end;
+
+				Dropdown.Value = nTable;
+			else
+				if (not Val) then
+					Dropdown.Value = nil;
+				elseif table.find(Dropdown.Values, Val) then
+					Dropdown.Value = Val;
+				end;
+			end;
+
+			Dropdown:BuildDropdownList();
+
+			Library:SafeCallback(Dropdown.Callback, Dropdown.Value);
+			Library:SafeCallback(Dropdown.Changed, Dropdown.Value);
+		end;
+
+		DropdownOuter.InputBegan:Connect(function(Input)
+			if Input.UserInputType == Enum.UserInputType.MouseButton1 and not Library:MouseIsOverOpenedFrame() then
+				if ListOuter.Visible then
+					Dropdown:CloseDropdown();
+				else
+					Dropdown:OpenDropdown();
+				end;
+			end;
+		end);
+
+		InputService.InputBegan:Connect(function(Input)
+			if Input.UserInputType == Enum.UserInputType.MouseButton1 then
+				local AbsPos, AbsSize = ListOuter.AbsolutePosition, ListOuter.AbsoluteSize;
+
+				if Mouse.X < AbsPos.X or Mouse.X > AbsPos.X + AbsSize.X
+					or Mouse.Y < (AbsPos.Y - 20 - 1) or Mouse.Y > AbsPos.Y + AbsSize.Y then
+
+					Dropdown:CloseDropdown();
+				end;
+			end;
+		end);
+
+		Dropdown:BuildDropdownList();
+		Dropdown:Display();
+
+		local Defaults = {}
+
+		if type(Info.Default) == 'string' then
+			local Idx = table.find(Dropdown.Values, Info.Default)
+			if Idx then
+				table.insert(Defaults, Idx)
+			end
+		elseif type(Info.Default) == 'table' then
+			for _, Value in next, Info.Default do
+				local Idx = table.find(Dropdown.Values, Value)
+				if Idx then
+					table.insert(Defaults, Idx)
+				end
+			end
+		elseif type(Info.Default) == 'number' and Dropdown.Values[Info.Default] ~= nil then
+			table.insert(Defaults, Info.Default)
+		end
+
+		if next(Defaults) then
+			for i = 1, #Defaults do
+				local Index = Defaults[i]
+				if Info.Multi then
+					Dropdown.Value[Dropdown.Values[Index]] = true
+				else
+					Dropdown.Value = Dropdown.Values[Index];
+				end
+
+				if (not Info.Multi) then break end
+			end
+
+			Dropdown:BuildDropdownList();
+			Dropdown:Display();
+		end
+
+		Groupbox:AddBlank(Info.BlankSize or 5);
+		Groupbox:Resize();
+
+		Options[Idx] = Dropdown;
+
+		return Dropdown;
+	end;
+
+	function Funcs:AddDependencyBox()
+		local Depbox = {
+			Dependencies = {};
+		};
+
+		local Groupbox = self;
+		local Container = Groupbox.Container;
+
+		local Holder = Library:Create('Frame', {
+			BackgroundTransparency = 1;
+			Size = UDim2.new(1, 0, 0, 0);
+			Visible = false;
+			Parent = Container;
+		});
+
+		local Frame = Library:Create('Frame', {
+			BackgroundTransparency = 1;
+			Size = UDim2.new(1, 0, 1, 0);
+			Visible = true;
+			Parent = Holder;
+		});
+
+		local Layout = Library:Create('UIListLayout', {
+			FillDirection = Enum.FillDirection.Vertical;
+			SortOrder = Enum.SortOrder.LayoutOrder;
+			Parent = Frame;
+		});
+
+		function Depbox:Resize()
+			Holder.Size = UDim2.new(1, 0, 0, Layout.AbsoluteContentSize.Y);
+			Groupbox:Resize();
+		end;
+
+		Layout:GetPropertyChangedSignal('AbsoluteContentSize'):Connect(function()
+			Depbox:Resize();
+		end);
+
+		Holder:GetPropertyChangedSignal('Visible'):Connect(function()
+			Depbox:Resize();
+		end);
+
+		function Depbox:Update()
+			for _, Dependency in next, Depbox.Dependencies do
+				local Elem = Dependency[1];
+				local Value = Dependency[2];
+
+				if Elem.Type == 'Toggle' and Elem.Value ~= Value then
+					Holder.Visible = false;
+					Depbox:Resize();
+					return;
+				end;
+			end;
+
+			Holder.Visible = true;
+			Depbox:Resize();
+		end;
+
+		function Depbox:SetupDependencies(Dependencies)
+			for _, Dependency in next, Dependencies do
+				assert(type(Dependency) == 'table', 'SetupDependencies: Dependency is not of type `table`.');
+				assert(Dependency[1], 'SetupDependencies: Dependency is missing element argument.');
+				assert(Dependency[2] ~= nil, 'SetupDependencies: Dependency is missing value argument.');
+			end;
+
+			Depbox.Dependencies = Dependencies;
+			Depbox:Update();
+		end;
+
+		Depbox.Container = Frame;
+
+		setmetatable(Depbox, BaseGroupbox);
+
+		table.insert(Library.DependencyBoxes, Depbox);
+
+		return Depbox;
+	end;
+
+	BaseGroupbox.__index = Funcs;
+	BaseGroupbox.__namecall = function(Table, Key, ...)
+		return Funcs[Key](...);
+	end;
+end;
+
+-- < Create other UI elements >
+do
+	Library.NotificationArea = Library:Create('Frame', {
+		BackgroundTransparency = 1;
+		Position = UDim2.new(0, 0, 0, 40);
+		Size = UDim2.new(0, 300, 0, 200);
+		ZIndex = 100;
+		Parent = ScreenGui;
+	});
+
+	Library:Create('UIListLayout', {
+		Padding = UDim.new(0, 4);
+		FillDirection = Enum.FillDirection.Vertical;
+		SortOrder = Enum.SortOrder.LayoutOrder;
+		Parent = Library.NotificationArea;
+	});
+
+    local WatermarkOuter = Library:Create('Frame', {
+        BorderColor3 = Color3.new(0, 0, 0);
+        Position = UDim2.new(0, 100, 0, -25);
+        Size = UDim2.new(0, 213, 0, 20);
+        ZIndex = 200;
+        Visible = false;
+        Parent = ScreenGui;
+    });
+
+    local WatermarkInner = Library:Create('Frame', {
+        BackgroundColor3 = Library.MainColor;
+        BorderColor3 = Library.AccentColor;
+        BorderMode = Enum.BorderMode.Inset;
+        Size = UDim2.new(1, 0, 1, 0);
+        ZIndex = 201;
+        Parent = WatermarkOuter;
+    });
+
+    Library:AddToRegistry(WatermarkInner, {
+        BorderColor3 = 'AccentColor';
+    });
+
+    local InnerFrame = Library:Create('Frame', {
+        BackgroundColor3 = Color3.new(1, 1, 1);
+        BorderSizePixel = 0;
+        Position = UDim2.new(0, 1, 0, 1);
+        Size = UDim2.new(1, -2, 1, -2);
+        ZIndex = 202;
+        Parent = WatermarkInner;
+    });
+
+    local Gradient = Library:Create('UIGradient', {
+        Color = ColorSequence.new({
+            ColorSequenceKeypoint.new(0, Library:GetDarkerColor(Library.MainColor)),
+            ColorSequenceKeypoint.new(1, Library.MainColor),
+        });
+        Rotation = -90;
+        Parent = InnerFrame;
+    });
+
+    Library:AddToRegistry(Gradient, {
+        Color = function()
+            return ColorSequence.new({
+                ColorSequenceKeypoint.new(0, Library:GetDarkerColor(Library.MainColor)),
+                ColorSequenceKeypoint.new(1, Library.MainColor),
+            });
+        end
+    });
+
+    local WatermarkLabel = Library:CreateLabel2({
+        Position = UDim2.new(0, 5, 0, 0);
+        Size = UDim2.new(1, -4, 1, 0);
+        TextSize = 14;
+        RichText = true;
+        TextXAlignment = Enum.TextXAlignment.Left;
+        ZIndex = 203;
+        Parent = InnerFrame;
+    });
+
+    Library.Watermark = WatermarkOuter;
+    Library.WatermarkText = WatermarkLabel;
+    Library:MakeDraggable(Library.Watermark);
+
+	local KeybindOuter = Library:Create('Frame', {
+		AnchorPoint = Vector2.new(0, 0.5);
+		BorderColor3 = Color3.new(0, 0, 0);
+		Position = UDim2.new(0, 10, 0.5, 0);
+		Size = UDim2.new(0, 210, 0, 20);
+		Visible = false;
+		ZIndex = 100;
+		Parent = ScreenGui;
+	});
+
+	local KeybindInner = Library:Create('Frame', {
+		BackgroundColor3 = Library.MainColor;
+		BorderColor3 = Library.OutlineColor;
+		BorderMode = Enum.BorderMode.Inset;
+		Size = UDim2.new(1, 0, 1, 0);
+		ZIndex = 101;
+		Parent = KeybindOuter;
+	});
+
+	Library:AddToRegistry(KeybindInner, {
+		BackgroundColor3 = 'MainColor';
+		BorderColor3 = 'OutlineColor';
+	}, true);
+
+	local ColorFrame = Library:Create('Frame', {
+		BackgroundColor3 = Library.AccentColor;
+		BorderSizePixel = 0;
+		Size = UDim2.new(1, 0, 0, 2);
+		ZIndex = 102;
+		Parent = KeybindInner;
+	});
+
+	Library:AddToRegistry(ColorFrame, {
+		BackgroundColor3 = 'AccentColor';
+	}, true);
+
+    local KeybindLabel = Library:CreateLabel2({
+        Size = UDim2.new(1, 0, 0, 20);
+        Position = UDim2.fromOffset(5, 2),
+        TextXAlignment = Enum.TextXAlignment.Center,
+        
+        Text = '[ Keybinds ]';
+        ZIndex = 104;
+        Parent = KeybindInner;
+    });
+
+	local KeybindContainer = Library:Create('Frame', {
+		BackgroundTransparency = 1;
+		Size = UDim2.new(1, 0, 1, -20);
+		Position = UDim2.new(0, 0, 0, 20);
+		ZIndex = 1;
+		Parent = KeybindInner;
+	});
+
+	Library:Create('UIListLayout', {
+		FillDirection = Enum.FillDirection.Vertical;
+		SortOrder = Enum.SortOrder.LayoutOrder;
+		Parent = KeybindContainer;
+	});
+
+	Library:Create('UIPadding', {
+		PaddingLeft = UDim.new(0, 5),
+		Parent = KeybindContainer,
+	})
+
+	Library.KeybindFrame = KeybindOuter;
+	Library.KeybindContainer = KeybindContainer;
+	Library:MakeDraggable(KeybindOuter);
+end;
+
+function Library:SetWatermarkVisibility(Bool)
+	Library.Watermark.Visible = Bool;
+end;
+
+function Library:SetWatermark(Text)
+	local X, Y = Library:GetTextBounds(Text, Library.Font, 14);
+	Library.Watermark.Size = UDim2.new(0, X + 15, 0, (Y * 1.5) + 3);
+	Library:SetWatermarkVisibility(true)
+
+	Library.WatermarkText.Text = Text;
+end;
+
+function Library:Notify(Text, Time)
+	local XSize, YSize = Library:GetTextBounds(Text, Library.Font, 14);
+
+	YSize = YSize + 7
+
+	local NotifyOuter = Library:Create('Frame', {
+		BorderColor3 = Color3.new(0, 0, 0);
+		Position = UDim2.new(0, 100, 0, 10);
+		Size = UDim2.new(0, 0, 0, YSize);
+		ClipsDescendants = true;
+		ZIndex = 100;
+		Parent = Library.NotificationArea;
+	});
+
+	local NotifyInner = Library:Create('Frame', {
+		BackgroundColor3 = Library.MainColor;
+		BorderColor3 = Library.OutlineColor;
+		BorderMode = Enum.BorderMode.Inset;
+		Size = UDim2.new(1, 0, 1, 0);
+		ZIndex = 101;
+		Parent = NotifyOuter;
+	});
+
+	Library:AddToRegistry(NotifyInner, {
+		BackgroundColor3 = 'MainColor';
+		BorderColor3 = 'OutlineColor';
+	}, true);
+
+	local InnerFrame = Library:Create('Frame', {
+		BackgroundColor3 = Color3.new(1, 1, 1);
+		BorderSizePixel = 0;
+		Position = UDim2.new(0, 1, 0, 1);
+		Size = UDim2.new(1, -2, 1, -2);
+		ZIndex = 102;
+		Parent = NotifyInner;
+	});
+
+	local Gradient = Library:Create('UIGradient', {
+		Color = ColorSequence.new({
+			ColorSequenceKeypoint.new(0, Library:GetDarkerColor(Library.MainColor)),
+			ColorSequenceKeypoint.new(1, Library.MainColor),
+		});
+		Rotation = -90;
+		Parent = InnerFrame;
+	});
+
+	Library:AddToRegistry(Gradient, {
+		Color = function()
+			return ColorSequence.new({
+				ColorSequenceKeypoint.new(0, Library:GetDarkerColor(Library.MainColor)),
+				ColorSequenceKeypoint.new(1, Library.MainColor),
+			});
+		end
+	});
+
+    local NotifyLabel = Library:CreateLabel({
+        Position = UDim2.new(0, 4, 0, 0);
+        Size = UDim2.new(1, -4, 1, 0);
+        Text = Text;
+        RichText = true;
+        TextXAlignment = Enum.TextXAlignment.Left;
+        TextSize = 14;
+        ZIndex = 103;
+        Parent = InnerFrame;
+    });
+
+
+	local LeftColor = Library:Create('Frame', {
+		BackgroundColor3 = Library.AccentColor;
+		BorderSizePixel = 0;
+		Position = UDim2.new(0, -1, 0, -1);
+		Size = UDim2.new(0, 3, 1, 2);
+		ZIndex = 104;
+		Parent = NotifyOuter;
+	});
+
+	Library:AddToRegistry(LeftColor, {
+		BackgroundColor3 = 'AccentColor';
+	}, true);
+	local function inputBegan(input)
+		pcall(function() if input.UserInputType == Enum.UserInputType.MouseButton1 then
+				task.spawn(function() pcall(function()
+
+						NotifyOuter:TweenSize(UDim2.new(0, 0, 0, 20), 'Out', 'Quad', 0.4, true);
+
+						task.wait(0.4);
+
+						NotifyOuter:Destroy();
+					end) end);
+			end end)
+	end
+
+	InnerFrame.InputBegan:Connect(inputBegan)
+	pcall(NotifyOuter.TweenSize, NotifyOuter, UDim2.new(0, XSize + 8 + 4, 0, YSize), 'Out', 'Quad', 0.4, true);
+
+	task.spawn(function()
+		wait(Time or 5);
+
+		pcall(NotifyOuter.TweenSize, NotifyOuter, UDim2.new(0, 0, 0, YSize), 'Out', 'Quad', 0.4, true);
+
+		wait(0.4);
+
+		NotifyOuter:Destroy();
+	end);
+end;
+
+function Library:CreateWindow(...)
+	local Arguments = { ... }
+	local Config = { AnchorPoint = Vector2.zero }
+
+	if type(...) == 'table' then
+		Config = ...;
+	else
+		Config.Title = Arguments[1]
+		Config.AutoShow = Arguments[2] or false;
+	end
+
+	if type(Config.Title) ~= 'string' then Config.Title = 'No title' end
+	if type(Config.TabPadding) ~= 'number' then Config.TabPadding = 0 end
+	if type(Config.MenuFadeTime) ~= 'number' then Config.MenuFadeTime = 0.2 end
+
+	if typeof(Config.Position) ~= 'UDim2' then Config.Position = UDim2.fromOffset(175, 50) end
+	if typeof(Config.Size) ~= 'UDim2' then Config.Size = UDim2.fromOffset(550, 600) end
+
+	if Config.Center then
+		Config.AnchorPoint = Vector2.new(0.5, 0.5)
+		Config.Position = UDim2.fromScale(0.5, 0.5)
+	end
+
+	local Window = {
+		Tabs = {};
+	};
+
+	local Outer = Library:Create('Frame', {
+		AnchorPoint = Config.AnchorPoint,
+		BackgroundColor3 = Color3.new(0, 0, 0);
+		BorderSizePixel = 0;
+		Position = Config.Position,
+		Size = Config.Size,
+		Visible = false;
+		ZIndex = 1;
+		Parent = ScreenGui;
+	});
+
+	Library:MakeDraggable(Outer, 25);
+
+	local Inner = Library:Create('Frame', {
+		BackgroundColor3 = Library.MainColor;
+		BorderColor3 = Library.AccentColor;
+		BorderMode = Enum.BorderMode.Inset;
+		Position = UDim2.new(0, 1, 0, 1);
+		Size = UDim2.new(1, -2, 1, -2);
+		ZIndex = 1;
+		Parent = Outer;
+	});
+
+	Library:AddToRegistry(Inner, {
+		BackgroundColor3 = 'MainColor';
+		BorderColor3 = 'AccentColor';
+	});
+
+    local WindowLabel = Library:CreateLabel2({
+        Position = UDim2.new(0, 7, 0, 0);
+        Size = UDim2.new(0, 0, 0, 25);
+        RichText = true;
+        Text = Config.Title or '';
+        TextXAlignment = Enum.TextXAlignment.Left;
+        ZIndex = 1;
+        Parent = Inner;
+    });
+
+	local MainSectionOuter = Library:Create('Frame', {
+		BackgroundColor3 = Library.BackgroundColor;
+		BorderColor3 = Library.OutlineColor;
+		Position = UDim2.new(0, 8, 0, 25);
+		BackgroundTransparency = 1;
+		Size = UDim2.new(1, -16, 1, -33);
+		ZIndex = 1;
+		Parent = Inner;
+	});
+
+	Library:AddToRegistry(MainSectionOuter, {
+		BackgroundColor3 = 'BackgroundColor';
+		BorderColor3 = 'OutlineColor';
+	});
+
+	local MainSectionInner = Library:Create('Frame', {
+		BackgroundColor3 = Library.BackgroundColor;
+		BackgroundTransparency = 1;
+		Position = UDim2.new(0, 0, 0, 0);
+		Size = UDim2.new(1, 0, 1, 0);
+		ZIndex = 1;
+		Parent = MainSectionOuter;
+	});
+
+	Library:AddToRegistry(MainSectionInner, {
+		BackgroundColor3 = 'BackgroundColor';
+	});
+
+	local TabArea = Library:Create('Frame', {
+		BackgroundTransparency = 1;
+		Position = UDim2.new(0, 8, 0, 8);
+		Size = UDim2.new(1, -16, 0, 21);
+		ZIndex = 1;
+		Parent = MainSectionInner;
+	});
+
+	local TabListLayout = Library:Create('UIListLayout', {
+		Padding = UDim.new(0, Config.TabPadding);
+		FillDirection = Enum.FillDirection.Horizontal;
+		SortOrder = Enum.SortOrder.LayoutOrder;
+		Parent = TabArea;
+	});
+
+	local TabContainer = Library:Create('Frame', {
+		BackgroundColor3 = Library.MainColor;
+		Position = UDim2.new(0, 8, 0, 30);
+		Size = UDim2.new(1, -16, 1, -38);
+		BorderSizePixel = 0;
+		ZIndex = 2;
+		Parent = MainSectionInner;
+	});
+
+
+	Library:AddToRegistry(TabContainer, {
+		BackgroundColor3 = 'MainColor';
+		BorderColor3 = 'OutlineColor';
+	});
+
+	function Window:SetWindowTitle(Title)
+		WindowLabel.Text = Title;
+	end;
+
+	function Window:AddTab(Name)
+		local Tab = {
+			Groupboxes = {};
+			Tabboxes = {};
+		};
+
+		local TabButtonWidth = Library:GetTextBounds(Name, Library.Font, 16);
+
+		local TabButton = Library:Create('Frame', {
+			BackgroundColor3 = Library.BackgroundColor;
+			BorderColor3 = Library.OutlineColor;
+			BackgroundTransparency = 1;
+			Size = UDim2.new(0, TabButtonWidth + 8 + 4, 1, 0);
+			ZIndex = 1;
+			Parent = TabArea;
+		});
+
+		Library:AddToRegistry(TabButton, {
+			BackgroundColor3 = 'BackgroundColor';
+			BorderColor3 = 'OutlineColor';
+		});
+
+		local TabButtonLabel = Library:CreateLabel({
+			Position = UDim2.new(0, 0, 0, 0);
+			Size = UDim2.new(1, 0, 1, -1);
+			Text = Name;
+			ZIndex = 1;
+			Parent = TabButton;
+		});
+
+		local Blocker = Library:Create('Frame', {
+			BackgroundColor3 = Library.MainColor;
+			BackgroundTransparency = 1;
+			BorderSizePixel = 0;
+			Position = UDim2.new(0, 0, 1, 0);
+			Size = UDim2.new(1, 0, 0, 1);
+			ZIndex = 3;
+			Parent = TabButton;
+		});
+
+		Library:AddToRegistry(Blocker, {
+			BackgroundColor3 = 'MainColor';
+		});
+
+		local TabFrame = Library:Create('Frame', {
+			Name = 'TabFrame',
+			BackgroundTransparency = 1;
+			Position = UDim2.new(0, 0, 0, 0);
+			Size = UDim2.new(1, 0, 1, 0);
+			Visible = false;
+			ZIndex = 2;
+			Parent = TabContainer;
+		});
+
+		local LeftSide = Library:Create('ScrollingFrame', {
+			BackgroundTransparency = 1;
+			BorderSizePixel = 0;
+			Position = UDim2.new(0, 8 - 1, 0, 8 - 1);
+			Size = UDim2.new(0.5, -12 + 2, 0, 507 + 2);
+			CanvasSize = UDim2.new(0, 0, 0, 0);
+			BottomImage = '';
+			TopImage = '';
+			ScrollBarThickness = 0;
+			ZIndex = 2;
+			Parent = TabFrame;
+		});
+
+		local RightSide = Library:Create('ScrollingFrame', {
+			BackgroundTransparency = 1;
+			BorderSizePixel = 0;
+			Position = UDim2.new(0.5, 4 + 1, 0, 8 - 1);
+			Size = UDim2.new(0.5, -12 + 2, 0, 507 + 2);
+			CanvasSize = UDim2.new(0, 0, 0, 0);
+			BottomImage = '';
+			TopImage = '';
+			ScrollBarThickness = 0;
+			ZIndex = 2;
+			Parent = TabFrame;
+		});
+
+		Library:Create('UIListLayout', {
+			Padding = UDim.new(0, 8);
+			FillDirection = Enum.FillDirection.Vertical;
+			SortOrder = Enum.SortOrder.LayoutOrder;
+			HorizontalAlignment = Enum.HorizontalAlignment.Center;
+			Parent = LeftSide;
+		});
+
+		Library:Create('UIListLayout', {
+			Padding = UDim.new(0, 8);
+			FillDirection = Enum.FillDirection.Vertical;
+			SortOrder = Enum.SortOrder.LayoutOrder;
+			HorizontalAlignment = Enum.HorizontalAlignment.Center;
+			Parent = RightSide;
+		});
+
+		for _, Side in next, { LeftSide, RightSide } do
+			Side:WaitForChild('UIListLayout'):GetPropertyChangedSignal('AbsoluteContentSize'):Connect(function()
+				Side.CanvasSize = UDim2.fromOffset(0, Side.UIListLayout.AbsoluteContentSize.Y);
+			end);
+		end;
+
+		function Tab:ShowTab()
+			for _, Tab in next, Window.Tabs do
+				Tab:HideTab();
+			end;
+
+			Blocker.BackgroundTransparency = 1;
+			TabButtonLabel.TextColor3 = Library.AccentColor;
+			TabButton.BackgroundColor3 = Library.MainColor;
+			Library.RegistryMap[TabButton].Properties.BackgroundColor3 = 'MainColor';
+			TabFrame.Visible = true;
+		end;
+
+		function Tab:HideTab()
+			Blocker.BackgroundTransparency = 1;
+			TabButtonLabel.TextColor3 = Color3.new(1,1,1);
+			TabButton.BackgroundColor3 = Library.BackgroundColor;
+			Library.RegistryMap[TabButton].Properties.BackgroundColor3 = 'BackgroundColor';
+			TabFrame.Visible = false;
+		end;
+
+		function Tab:SetLayoutOrder(Position)
+			TabButton.LayoutOrder = Position;
+			TabListLayout:ApplyLayout();
+		end;
+
+		function Tab:AddGroupbox(Info)
+			local Groupbox = {};
+
+			local BoxOuter = Library:Create('Frame', {
+				BackgroundColor3 = Library.BackgroundColor;
+				BorderColor3 = Library.OutlineColor;
+				BackgroundTransparency = 0.75;
+				BorderMode = Enum.BorderMode.Inset;
+				Size = UDim2.new(1, 0, 0, 507 + 2);
+				ZIndex = 2;
+				Parent = Info.Side == 1 and LeftSide or RightSide;
+			});
+
+			Library:AddToRegistry(BoxOuter, {
+				BackgroundColor3 = 'BackgroundColor';
+				BorderColor3 = 'OutlineColor';
+			});
+
+			local BoxInner = Library:Create('Frame', {
+				BackgroundColor3 = Library.BackgroundColor;
+				BorderColor3 = Color3.new(0, 0, 0);
+				BackgroundTransparency = 0.75;
+
+				-- BorderMode = Enum.BorderMode.Inset;
+				Size = UDim2.new(1, -2, 1, -2);
+				Position = UDim2.new(0, 1, 0, 1);
+				ZIndex = 4;
+				Parent = BoxOuter;
+			});
+
+			Library:AddToRegistry(BoxInner, {
+				BackgroundColor3 = 'BackgroundColor';
+			});
+
+			local Highlight = Library:Create('Frame', {
+				BackgroundColor3 = Library.AccentColor;
+				BorderSizePixel = 0;
+				Size = UDim2.new(1, 0, 0, 2);
+				ZIndex = 5;
+				Parent = BoxInner;
+			});
+
+			Library:AddToRegistry(Highlight, {
+				BackgroundColor3 = 'AccentColor';
+			});
+
+			local GroupboxLabel = Library:CreateLabel({
+				Size = UDim2.new(1, 0, 0, 18);
+				Position = UDim2.new(0, 4, 0, 2);
+				TextSize = 14;
+				Text = Info.Name;
+				TextXAlignment = Enum.TextXAlignment.Left;
+				ZIndex = 5;
+				Parent = BoxInner;
+			});
+
+			local Container = Library:Create('Frame', {
+				BackgroundTransparency = 1;
+				Position = UDim2.new(0, 4, 0, 20);
+				Size = UDim2.new(1, -4, 1, -20);
+				ZIndex = 1;
+				Parent = BoxInner;
+			});
+
+			Library:Create('UIListLayout', {
+				FillDirection = Enum.FillDirection.Vertical;
+				SortOrder = Enum.SortOrder.LayoutOrder;
+				Parent = Container;
+			});
+
+			function Groupbox:Resize()
+				local Size = 0;
+
+				for _, Element in next, Groupbox.Container:GetChildren() do
+					if (not Element:IsA('UIListLayout')) and Element.Visible then
+						Size = Size + Element.Size.Y.Offset;
+					end;
+				end;
+
+				BoxOuter.Size = UDim2.new(1, 0, 0, 20 + Size + 2 + 2);
+			end;
+
+			Groupbox.Container = Container;
+			setmetatable(Groupbox, BaseGroupbox);
+
+			Groupbox:AddBlank(3);
+			Groupbox:Resize();
+
+			Tab.Groupboxes[Info.Name] = Groupbox;
+
+			return Groupbox;
+		end;
+
+		function Tab:AddLeftGroupbox(Name)
+			return Tab:AddGroupbox({ Side = 1; Name = Name; });
+		end;
+
+		function Tab:AddRightGroupbox(Name)
+			return Tab:AddGroupbox({ Side = 2; Name = Name; });
+		end;
+
+		function Tab:AddTabbox(Info)
+			local Tabbox = {
+				Tabs = {};
+			};
+
+			local BoxOuter = Library:Create('Frame', {
+				BackgroundColor3 = Library.BackgroundColor;
+				BorderColor3 = Library.OutlineColor;
+				BorderMode = Enum.BorderMode.Inset;
+				Size = UDim2.new(1, 0, 0, 0);
+				ZIndex = 2;
+				Parent = Info.Side == 1 and LeftSide or RightSide;
+			});
+
+			Library:AddToRegistry(BoxOuter, {
+				BackgroundColor3 = 'BackgroundColor';
+				BorderColor3 = 'OutlineColor';
+			});
+
+			local BoxInner = Library:Create('Frame', {
+				BackgroundColor3 = Library.BackgroundColor;
+				BorderColor3 = Color3.new(0, 0, 0);
+				-- BorderMode = Enum.BorderMode.Inset;
+				Size = UDim2.new(1, -2, 1, -2);
+				Position = UDim2.new(0, 1, 0, 1);
+				ZIndex = 4;
+				Parent = BoxOuter;
+			});
+
+			Library:AddToRegistry(BoxInner, {
+				BackgroundColor3 = 'BackgroundColor';
+			});
+
+			local Highlight = Library:Create('Frame', {
+				BackgroundColor3 = Library.AccentColor;
+				BorderSizePixel = 0;
+				Size = UDim2.new(1, 0, 0, 2);
+				ZIndex = 10;
+				Parent = BoxInner;
+			});
+
+			Library:AddToRegistry(Highlight, {
+				BackgroundColor3 = 'AccentColor';
+			});
+
+			local TabboxButtons = Library:Create('Frame', {
+				BackgroundTransparency = 1;
+				Position = UDim2.new(0, 0, 0, 1);
+				Size = UDim2.new(1, 0, 0, 18);
+				ZIndex = 5;
+				Parent = BoxInner;
+			});
+
+			Library:Create('UIListLayout', {
+				FillDirection = Enum.FillDirection.Horizontal;
+				HorizontalAlignment = Enum.HorizontalAlignment.Left;
+				SortOrder = Enum.SortOrder.LayoutOrder;
+				Parent = TabboxButtons;
+			});
+
+			function Tabbox:AddTab(Name)
+				local Tab = {};
+
+				local Button = Library:Create('Frame', {
+					BackgroundColor3 = Library.MainColor;
+					BorderColor3 = Color3.new(0, 0, 0);
+					Size = UDim2.new(0.5, 0, 1, 0);
+					ZIndex = 6;
+					Parent = TabboxButtons;
+				});
+
+				Library:AddToRegistry(Button, {
+					BackgroundColor3 = 'MainColor';
+				});
+
+				local ButtonLabel = Library:CreateLabel({
+					Size = UDim2.new(1, 0, 1, 0);
+					TextSize = 14;
+					Text = Name;
+					TextXAlignment = Enum.TextXAlignment.Center;
+					ZIndex = 7;
+					Parent = Button;
+				});
+
+				local Block = Library:Create('Frame', {
+					BackgroundColor3 = Library.BackgroundColor;
+					BorderSizePixel = 0;
+					Position = UDim2.new(0, 0, 1, 0);
+					Size = UDim2.new(1, 0, 0, 1);
+					Visible = false;
+					ZIndex = 9;
+					Parent = Button;
+				});
+
+				Library:AddToRegistry(Block, {
+					BackgroundColor3 = 'BackgroundColor';
+				});
+
+				local Container = Library:Create('Frame', {
+					BackgroundTransparency = 1;
+					Position = UDim2.new(0, 4, 0, 20);
+					Size = UDim2.new(1, -4, 1, -20);
+					ZIndex = 1;
+					Visible = false;
+					Parent = BoxInner;
+				});
+
+				Library:Create('UIListLayout', {
+					FillDirection = Enum.FillDirection.Vertical;
+					SortOrder = Enum.SortOrder.LayoutOrder;
+					Parent = Container;
+				});
+
+				function Tab:Show()
+					for _, Tab in next, Tabbox.Tabs do
+						Tab:Hide();
+					end;
+
+					Container.Visible = true;
+					Block.Visible = true;
+
+					Button.BackgroundColor3 = Library.BackgroundColor;
+					Library.RegistryMap[Button].Properties.BackgroundColor3 = 'BackgroundColor';
+
+					Tab:Resize();
+				end;
+
+				function Tab:Hide()
+					Container.Visible = false;
+					Block.Visible = false;
+
+					Button.BackgroundColor3 = Library.MainColor;
+					Library.RegistryMap[Button].Properties.BackgroundColor3 = 'MainColor';
+				end;
+
+				function Tab:Resize()
+					local TabCount = 0;
+
+					for _, Tab in next, Tabbox.Tabs do
+						TabCount = TabCount + 1;
+					end;
+
+					for _, Button in next, TabboxButtons:GetChildren() do
+						if not Button:IsA('UIListLayout') then
+							Button.Size = UDim2.new(1 / TabCount, 0, 1, 0);
+						end;
+					end;
+
+					if (not Container.Visible) then
+						return;
+					end;
+
+					local Size = 0;
+
+					for _, Element in next, Tab.Container:GetChildren() do
+						if (not Element:IsA('UIListLayout')) and Element.Visible then
+							Size = Size + Element.Size.Y.Offset;
+						end;
+					end;
+
+					BoxOuter.Size = UDim2.new(1, 0, 0, 20 + Size + 2 + 2);
+				end;
+
+				Button.InputBegan:Connect(function(Input)
+					if Input.UserInputType == Enum.UserInputType.MouseButton1 and not Library:MouseIsOverOpenedFrame() then
+						Tab:Show();
+						Tab:Resize();
+					end;
+				end);
+
+				Tab.Container = Container;
+				Tabbox.Tabs[Name] = Tab;
+
+				setmetatable(Tab, BaseGroupbox);
+
+				Tab:AddBlank(3);
+				Tab:Resize();
+
+				-- Show first tab (number is 2 cus of the UIListLayout that also sits in that instance)
+				if #TabboxButtons:GetChildren() == 2 then
+					Tab:Show();
+				end;
+
+				return Tab;
+			end;
+
+			Tab.Tabboxes[Info.Name or ''] = Tabbox;
+
+			return Tabbox;
+		end;
+
+		function Tab:AddLeftTabbox(Name)
+			return Tab:AddTabbox({ Name = Name, Side = 1; });
+		end;
+
+		function Tab:AddRightTabbox(Name)
+			return Tab:AddTabbox({ Name = Name, Side = 2; });
+		end;
+
+		TabButton.InputBegan:Connect(function(Input)
+			if Input.UserInputType == Enum.UserInputType.MouseButton1 then
+				Tab:ShowTab();
+			end;
+		end);
+
+		-- This was the first tab added, so we show it by default.
+		if #TabContainer:GetChildren() == 1 then
+			Tab:ShowTab();
+		end;
+
+		Window.Tabs[Name] = Tab;
+		return Tab;
+	end;
+
+	local ModalElement = Library:Create('TextButton', {
+		BackgroundTransparency = 1;
+		Size = UDim2.new(0, 0, 0, 0);
+		Visible = true;
+		Text = '';
+		Modal = false;
+		Parent = ScreenGui;
+	});
+
+	local TransparencyCache = {};
+	local Toggled = false;
+	local Fading = false;
+
+	function Library:Toggle()
+		if Fading then
+			return;
+		end;
+
+		local FadeTime = Config.MenuFadeTime;
+		Fading = true;
+		Toggled = (not Toggled);
+		ModalElement.Modal = Toggled;
+
+
+
+		for _, Desc in next, Outer:GetDescendants() do
+			local Properties = {};
+
+			if Desc:IsA('ImageLabel') then
+				table.insert(Properties, 'ImageTransparency');
+				table.insert(Properties, 'BackgroundTransparency');
+			elseif Desc:IsA('TextLabel') or Desc:IsA('TextBox') then
+				table.insert(Properties, 'TextTransparency');
+			elseif Desc:IsA('Frame') or Desc:IsA('ScrollingFrame') then
+				table.insert(Properties, 'BackgroundTransparency');
+			elseif Desc:IsA('UIStroke') then
+				table.insert(Properties, 'Transparency');
+			end;
+
+			local Cache = TransparencyCache[Desc];
+
+			if (not Cache) then
+				Cache = {};
+				TransparencyCache[Desc] = Cache;
+			end;
+
+			for _, Prop in next, Properties do
+				if not Cache[Prop] then
+					Cache[Prop] = Desc[Prop];
+				end;
+
+				if Cache[Prop] == 1 then
+					continue;
+				end;
+
+				TweenService:Create(Desc, TweenInfo.new(FadeTime, Enum.EasingStyle.Linear), { [Prop] = Toggled and Cache[Prop] or 1 }):Play();
+			end;
+		end;
+
+		task.wait(FadeTime);
+
+		Outer.Visible = Toggled;
+
+		Fading = false;
+	end
+
+	Library:GiveSignal(InputService.InputBegan:Connect(function(Input, Processed)
+		if type(Library.ToggleKeybind) == 'table' and Library.ToggleKeybind.Type == 'KeyPicker' then
+			if Input.UserInputType == Enum.UserInputType.Keyboard and Input.KeyCode.Name == Library.ToggleKeybind.Value then
+				task.spawn(Library.Toggle)
+			end
+		elseif Input.KeyCode == Enum.KeyCode.RightControl or (Input.KeyCode == Enum.KeyCode.RightShift and (not Processed)) then
+			task.spawn(Library.Toggle)
+		end
+	end))
+
+	if Config.AutoShow then task.spawn(Library.Toggle) end
+
+	Window.Holder = Outer;
+
+	return Window;
+end;
+
+local function OnPlayerChange()
+	local PlayerList = GetPlayersString();
+
+	for _, Value in next, Options do
+		if Value.Type == 'Dropdown' and Value.SpecialType == 'Player' then
+			Value:SetValues(PlayerList);
+		end;
+	end;
+end;
+
+Players.PlayerAdded:Connect(OnPlayerChange);
+Players.PlayerRemoving:Connect(OnPlayerChange);
+getgenv().Library = Library;
+return Library
